@@ -5,6 +5,7 @@
     /* IE and Edge */
     scrollbar-width: none;
     /* Firefox */
+    
 }
 
 *::-webkit-scrollbar {
@@ -18,8 +19,12 @@ body {
     overflow: hidden;
 }
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     color: #9cf;
+    font-family: Orbitron, system-ui;
 }
 
 /* NAV */
