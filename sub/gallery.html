@@ -12,7 +12,7 @@
     <title>Company gallery</title>
 </head>
 
-<body>
+<body id="top">
     <nav>
         <span id="sideNavExpanded">
             <span>Gallery</span>
@@ -39,29 +39,132 @@
         <span class="artist" onclick="switchArtist('stormxros')">
             <img src="../media/pfp/stormxros.png" alt="profile pic"><span>StormXros</span>
         </span>
-        <span class="artist" class="exemployee" onclick="switchArtist('johnny_b')">
-            <img src="../media/pfp/johnny.png" alt="profile pic"><span>Johnny B</span>
+        <span class="artist exemployee" onclick="switchArtist('johnny_b')">
+            <img src="../media/pfp/johnny.png" alt="profile pic"><span><i>Johnny B</i></span>
         </span>
     </aside>
 
     <main class="mainArtist" id="none">
-        <h2>Please select an artist from the left.</h2>
+        <h2>Please select an artist from the menu on the left.</h2>
     </main>
     <main class="mainArtist" id="merilax">
-        Merilax
+        <div class="artIntro">
+            <img src="../media/pfp/merilax.png" alt="Merilax's profile picture">
+            <h1>Merilax, the fifth.</h1>
+            <h4>Merilax</h4>
+            <p>Arguably the most egocentric artist in the company, fitting of the owner of Kyra.<br />
+                Known for making extraordinarily big, unnecessarily complex mechs.</p>
+        </div>
+        <div class="artGallery">
+            <div class="entry">
+                <h3>Dragonite</h3>
+                <div class="media">
+                    <span class="mainMedia">
+                        <img src="../media/mech/merilax/Dragonite/1.png" alt="1" class="first">
+                    </span>
+                    <span class="extraMedia">
+                        <img src="../media/mech/merilax/Dragonite/2.png" alt="2">
+                        <img src="../media/mech/merilax/Dragonite/3.png" alt="3">
+                        <img src="../media/mech/merilax/Dragonite/4.png" alt="4">
+                        <img src="../media/mech/merilax/Dragonite/5.png" alt="5">
+                        <img src="../media/mech/merilax/Dragonite/6.png" alt="6">
+                    </span>
+                </div>
+            </div>
+            <div class="entry">
+                <h3>Volgograd Type B</h3>
+                <div class="media">
+                    <span class="mainMedia">
+                        <img src="../media/mech/merilax/Volgograd/1.png" alt="1" class="first">
+                    </span>
+                    <span class="extraMedia">
+                        <img src="../media/mech/merilax/Volgograd/2.png" alt="2">
+                        <img src="../media/mech/merilax/Volgograd/3.png" alt="3">
+                        <img src="../media/mech/merilax/Volgograd/4.png" alt="4">
+                        <img src="../media/mech/merilax/Volgograd/5.png" alt="5">
+                        <img src="../media/mech/merilax/Volgograd/6.png" alt="6">
+                        <img src="../media/mech/merilax/Volgograd/7.png" alt="7">
+                        <img src="../media/mech/merilax/Volgograd/8.png" alt="8">
+                        <img src="../media/mech/merilax/Volgograd/9.png" alt="9">
+                    </span>
+                </div>
+            </div>
+        </div>
     </main>
     <main class="mainArtist" id="iambob">
-        iambob
+        <div class="artIntro">
+            <img src="../media/pfp/iambob.png" alt="iambob's profile picture">
+            <h1>iambob</h1>
+            <h4></h4>
+            <p></p>
+        </div>
+        <div class="artGallery">
+            <div class="entry">
+                <h3>This artist has no entries, or are yet to be registered.</h3>
+                <div class="media">
+                    <span class="mainMedia">
+                        <img src="../media/placeholder-dark.jpg" alt="1" class="first">
+                    </span>
+                    <span class="extraMedia">
+                    </span>
+                </div>
     </main>
     <main class="mainArtist" id="bread_mimic">
-        Bread
+        <div class="artIntro">
+            <img src="../media/pfp/bread_mimic.png" alt="Bread Mimic's profile picture">
+            <h1>Bread Mimic</h1>
+            <h4></h4>
+            <p></p>
+        </div>
+        <div class="artGallery">
+            <div class="entry">
+                <h3>This artist has no entries, or are yet to be registered.</h3>
+                <div class="media">
+                    <span class="mainMedia">
+                        <img src="../media/placeholder-dark.jpg" alt="1" class="first">
+                    </span>
+                    <span class="extraMedia">
+                    </span>
+                </div>
     </main>
     <main class="mainArtist" id="stormxros">
-        StormXros
+        <div class="artIntro">
+            <img src="../media/pfp/stormxros.png" alt="StormXros' profile picture">
+            <h1>Nanotech</h1>
+            <h4>StormXros, the Worldwalker</h4>
+            <p></p>
+        </div>
+        <div class="artGallery">
+            <div class="entry">
+                <h3>This artist has no entries, or are yet to be registered.</h3>
+                <div class="media">
+                    <span class="mainMedia">
+                        <img src="../media/placeholder-dark.jpg" alt="1" class="first">
+                    </span>
+                    <span class="extraMedia">
+                    </span>
+                </div>
     </main>
     <main class="mainArtist" id="johnny_b">
-        Johnny
+        <div class="artIntro">
+            <img src="../media/pfp/johnny.png" alt="Johnny's profile picture">
+            <h1>Jonathan Oliviert [ex-employee]</h1>
+            <h4>Johnny</h4>
+            <p></p>
+        </div>
+        <div class="artGallery">
+            <div class="entry">
+                <h3>This artist has no entries, or are yet to be registered.</h3>
+                <div class="media">
+                    <span class="mainMedia">
+                        <img src="../media/placeholder-dark.jpg" alt="1" class="first">
+                    </span>
+                    <span class="extraMedia">
+                    </span>
+                </div>
     </main>
+
+    <a href="#top" id="backToTop"><img src="../media/backToTop.svg" alt="Back to top"></a>
 
     <script src="../js/master.js"></script>
     <script src="../js/gallery.js"></script>

@@ -1,7 +1,24 @@
+body {
+    overflow-y: scroll;
+}
+
+/* BACK TO TOP */
+
+#backToTop {
+    position: fixed;
+    background-color: #358;
+    bottom: 0;
+    right: 0;
+}
+#backToTop img {
+    width: 50px;
+    
+}
+
 /* ASIDE */
 
 aside {
-    position: absolute;
+    position: fixed;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -13,6 +30,7 @@ aside {
 }
 
 .artist {
+    /*position: sticky;*/
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
@@ -43,9 +61,77 @@ aside {
     height: 50px;
 }
 
+.exemployee {
+    background-color: #234 !important;
+}
+.exemployee:hover {
+    background-color: #830 !important;
+}
 /* MAIN */
 
-.mainArtist {
-    margin: 0 0 0 30px;
-    padding: 30px;
+.artIntro {
+    background-color: #444;
+    box-shadow: 0 0 8px #111;
+    width: 100%;
+    height: 260px;
+    padding: 30px 60px 0;
+}
+
+.artIntro img {
+    float: left;
+    margin: 0 30px;
+    width: 200px;
+}
+
+.artGallery {
+    width: 100%;
+    overflow-y: scroll !important;
+}
+
+.entry {
+    width: 100%;
+    background-color: #222;
+    padding: 0 40px;
+    margin: 10px 0;
+}
+
+.artGallery h3, h2 {
+    padding: 10px 50px 0;
+    margin: 0;
+}
+
+.media {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: center;
+}
+
+.mainMedia {
+    background-color: #333;
+    margin: 20px;
+}
+
+.first {
+    width: 450px;
+    margin: 5px;
+}
+
+.extraMedia {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    overflow-x: scroll;
+}
+
+.extraMedia {
+    background-color: #333;
+    height: fit-content;
+}
+
+.extraMedia img {
+    width: 300px;
+    margin: 5px;
+    object-fit: scale-down;
+    
 }
