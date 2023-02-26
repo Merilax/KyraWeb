@@ -14,8 +14,12 @@
 
 body {
     width: 100%;
-    background-color: #111 !important;
+    background-color: #121212 !important;
     overflow: hidden;
+}
+
+h1, h2, h3, h4 {
+    color: #9cf;
 }
 
 /* NAV */
@@ -43,7 +47,7 @@ nav {
 .sideNavSpan {
     width: 50px;
     height: 50px;
-    background-color: #26a;
+    background-color: #258;
 }
 
 #sideNav img {
@@ -57,7 +61,7 @@ nav {
     width: 100px;
     height: 50px;
     font-size: medium;
-    background-color: #249;
+    background-color: #236;
 }
 
 /* MAIN */
@@ -76,10 +80,10 @@ nav {
     display: flex;
     position: absolute;
     justify-content: center;
-    background-color: #223;
-    box-shadow: 0 0 10px #223;
+    background-color: #252525;
+    box-shadow: 0 0 8px #000;
     height: 50vh;
-    width: 80vw;
+    width: 1230px;
     padding: 10px;
     margin: 0 50px;
 }
