@@ -34,3 +34,10 @@ function switchArtist(arg) {
     document.getElementById(arg).style.display = "block";
     console.log("x")
 }
+
+function switchImage(entry, img) {
+    const mainMedia = document.getElementById(entry);
+    const extraMedia = document.getElementById(img);
+
+    mainMedia.src = extraMedia.src;
+}
