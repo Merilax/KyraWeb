@@ -33,7 +33,7 @@
 }
 
 .left:hover {
-    translate: 76% 0; /*60vw*/
+    translate: 60vw 0; /* 60vw or 76.5%~ */
 }
 
 .right {
@@ -41,7 +41,7 @@
 }
 
 .right:hover {
-    translate: -76% 0;
+    translate: 60vw 0;
 }
 
 .mainSection div {
