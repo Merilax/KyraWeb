@@ -17,7 +17,7 @@
     background-color: #252525;
     box-shadow: 0 0 8px #000;
     height: 50vh;
-    width: 1230px;
+    width: 80vw;
     padding: 10px;
     margin: 0 50px;
 }
@@ -28,19 +28,20 @@
 }
 
 .left {
-    translate: -1100px 0;
+    left: -65vw;
+    /*translate: -1100px 0;*/
 }
 
 .left:hover {
-    translate: -155px 0;
+    translate: 76% 0; /*60vw*/
 }
 
 .right {
-    translate: 1100px 0;
+    right: -65vw;
 }
 
 .right:hover {
-    translate: 155px 0;
+    translate: -76% 0;
 }
 
 .mainSection div {
@@ -49,13 +50,15 @@
     padding: 0 20px;
     flex-wrap: nowrap;
     flex-flow: column;
+    height: 100%;
 }
 
 .mainSection img {
-    max-width: 260px;
+    max-width: 18vw;
     object-fit: scale-down;
 }
 
 .mainSectionText {
     overflow-y: scroll;
+    height: 85%;
 }
