@@ -10,6 +10,7 @@ body {
     bottom: 0;
     right: 0;
 }
+
 #backToTop img {
     width: 50px;
 }
@@ -63,9 +64,11 @@ aside {
 .exemployee {
     background-color: #234 !important;
 }
+
 .exemployee:hover {
     background-color: #830 !important;
 }
+
 /* MAIN */
 
 .artIntro {
@@ -94,7 +97,8 @@ aside {
     margin: 10px 0;
 }
 
-.artGallery h3, h2 {
+.artGallery h3,
+h2 {
     padding: 10px 50px 0;
     margin: 0;
 }
@@ -113,7 +117,9 @@ aside {
 
 .first {
     width: 500px;
+    max-height: 282px;
     margin: 5px;
+    object-fit: cover;
 }
 
 .extraMedia {
@@ -123,15 +129,26 @@ aside {
     overflow-x: scroll;
     background-color: #333;
     height: fit-content;
-    
+
+}
+
+.extraMedia::-webkit-scrollbar {
+    display: block;
+    background-color: #444;
+}
+.extraMedia::-webkit-scrollbar-thumb {
+    background-color: #39c;
 }
 
 .extraMedia img {
-    width: 300px;
+    max-width: 300px;
+    max-height: 201px;
     margin: 5px;
     object-fit: scale-down;
     /*transition: scale 300ms ease;*/
-}/*
+}
+
+/*
 .extraMedia img:hover {
     scale: 1.5;
     z-index: 2;
