@@ -3,7 +3,7 @@ var sideNavExpanded = document.getElementById("sideNavExpanded");
 
 sideNav.addEventListener("mouseenter", () => {
     sideNavExpanded.animate([
-        { transform: "translateX(-100px)" }
+        { transform: "translateX(-150px)" }
     ], {
         duration: 500,
         easing: "ease",

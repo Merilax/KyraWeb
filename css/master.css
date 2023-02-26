@@ -41,7 +41,7 @@ nav {
 }
 
 #sideNavExpanded {
-    right: -50px;
+    right: -100px;
 }
 
 .sideNavSpan {
@@ -59,7 +59,7 @@ nav {
     background-color: #336;
     text-align: center;
     padding: 13px;
-    width: 100px;
+    width: 150px;
     height: 50px;
     font-size: medium;
 }
