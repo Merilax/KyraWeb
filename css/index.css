@@ -33,7 +33,8 @@
 }
 
 .left:hover {
-    translate: 60vw 0; /* 60vw or 76.5%~ */
+    translate: 60.5vw 0;
+    /* 60vw or 76.5%~ */
 }
 
 .right {
@@ -41,7 +42,7 @@
 }
 
 .right:hover {
-    translate: 60vw 0;
+    translate: -60.5vw 0;
 }
 
 .mainSection div {
@@ -60,5 +61,4 @@
 
 .mainSectionText {
     overflow-y: scroll;
-    height: 85%;
 }
