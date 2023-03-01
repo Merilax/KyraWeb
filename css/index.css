@@ -21,7 +21,7 @@
     height: 50vh;
     width: 80vw;
     padding: 10px;
-    margin: 0 50px;
+    margin: 0 0px;
 }
 
 .left,
@@ -30,21 +30,21 @@
 }
 
 .left {
-    left: -65vw;
+    left: -61vw;
     /*translate: -1100px 0;*/
 }
 
 .left:hover {
-    translate: 60.5vw 0;
+    translate: 60vw 0;
     /* 60vw or 76.5%~ */
 }
 
 .right {
-    right: -65vw;
+    right: -61vw;
 }
 
 .right:hover {
-    translate: -60.5vw 0;
+    translate: -60vw 0;
 }
 
 .mainSection div {
