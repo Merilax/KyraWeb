@@ -68,3 +68,15 @@ nav {
     height: 50px;
     font-size: medium;
 }
+
+/* SITE VERSION SPAN */
+
+#siteVersion {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #121212;
+    font-size: 0.7rem;
+    padding: 5px;
+    border-radius: 5%;
+}

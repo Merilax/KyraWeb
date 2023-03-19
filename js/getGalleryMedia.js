@@ -3,15 +3,13 @@ json.forEach(artist => {
     var main = $(`<main></main>"`).attr({
         id: artist.id,
         class: "mainArtist",
-
     }).css({ "display": "none" });
 
     var intro = $(`<div></div>`).addClass("artIntro");
 
     var artistimg = $(`<img />`).attr({
         src: artist.intro.img.src,
-        alt: artist.intro.img.alt,
-        loading: "lazy"
+        alt: artist.intro.img.alt
     });
     var artisth1 = $(`<h1></h1>`).text(artist.intro.h1);
     var artisth4 = $(`<h4></h4>`).text(artist.intro.h4);
@@ -48,7 +46,7 @@ json.forEach(artist => {
             $(mainMedia).append(mainimg);
 
             for (let i = 1; i < mech.media.length + 1; i++) {
-                const mechimg = mech.media[i-1];
+                const mechimg = mech.media[i - 1];
 
                 var extralink = $(`<a></a>`).attr({
                     href: mechimg,
