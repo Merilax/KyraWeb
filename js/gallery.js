@@ -22,11 +22,6 @@ selectArtist.mouseleave(() => {
 
 var mainArtist = $(".mainArtist");
 
-for (let i = 0; i < mainArtist.length; i++) {
-    const element = $(mainArtist[i]);
-    if (element.attr("id") !== "none") element.hide();
-}
-
 function switchArtist(arg) {
     for (let i = 0; i < mainArtist.length; i++) {
         $(mainArtist[i]).hide();
