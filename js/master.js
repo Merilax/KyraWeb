@@ -1,22 +1,22 @@
-var sideNav = document.getElementById("sideNav");
-var sideNavExpanded = document.getElementById("sideNavExpanded");
+var sideNav = $("#sideNav");
+var sideNavExpanded = $("#sideNavExpanded");
 
-sideNav.addEventListener("mouseenter", () => {
-    sideNavExpanded.animate([
-        { transform: "translateX(-150px)" }
-    ], {
-        duration: 500,
-        easing: "ease",
-        fill: "forwards"
-    });
+sideNav.mouseenter(() => {
+    sideNavExpanded.animate(
+        { right: "50px" },
+        {
+            duration: 400,
+            easing: "swing",
+            queue: false
+        });
 });
 
-sideNav.addEventListener("mouseleave", () => {
-    sideNavExpanded.animate([
-        { transform: "translateX(0px)" }
-    ], {
-        duration: 500,
-        easing: "ease",
-        fill: "forwards"
-    });
+sideNav.mouseleave(() => {
+    sideNavExpanded.animate(
+        { right: "-100px" },
+        {
+            duration: 400,
+            easing: "swing",
+            queue: false
+        });
 });

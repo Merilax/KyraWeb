@@ -1,43 +1,39 @@
-const selectArtist = document.getElementById("selectArtist");
+var selectArtist = $("#selectArtist");
 
-selectArtist.addEventListener("mouseenter", () => {
-    selectArtist.animate([
-        { transform: "translateX(220px)" }
-    ], {
-        duration: 500,
-        easing: "ease",
-        fill: "forwards"
-    });
+selectArtist.mouseenter(() => {
+    selectArtist.animate(
+        { left: "0" },
+        {
+            duration: 400,
+            easing: "swing",
+            queue: false
+        });
 });
 
-selectArtist.addEventListener("mouseleave", () => {
-    selectArtist.animate([
-        { transform: "translateX(0px)" }
-    ], {
-        duration: 500,
-        easing: "ease",
-        fill: "forwards"
-    });
+selectArtist.mouseleave(() => {
+    selectArtist.animate(
+        { left: "-220px" },
+        {
+            duration: 400,
+            easing: "swing",
+            queue: false
+        });
 });
 
-const mainArtist = document.getElementsByClassName("mainArtist");
+var mainArtist = $(".mainArtist");
 
 for (let i = 0; i < mainArtist.length; i++) {
-    const element = mainArtist[i];
-    if (element.id !== "none") element.style.display = "none";
+    const element = $(mainArtist[i]);
+    if (element.attr("id") !== "none") element.hide();
 }
 
 function switchArtist(arg) {
     for (let i = 0; i < mainArtist.length; i++) {
-        mainArtist[i].style.display = "none";
+        $(mainArtist[i]).hide();
     }
-    document.getElementById(arg).style.display = "block";
-    console.log("x")
+    $(`#${arg}`).show();
 }
 
 function switchImage(entry, img) {
-    const mainMedia = document.getElementById(entry);
-    const extraMedia = document.getElementById(img);
-
-    mainMedia.src = extraMedia.src;
+    $(`#${entry}`).attr("src", $(`#${img}`).attr("src"));
 }
