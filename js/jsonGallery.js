@@ -297,7 +297,7 @@ const json = [
             },
             "h1": "Iambob",
             "h4": "",
-            "p": ""
+            "p": "This artist is very shy and has no description."
         },
         "gallery": [
             {
@@ -358,7 +358,7 @@ const json = [
             },
             "h1": "Bread Mimic",
             "h4": "",
-            "p": ""
+            "p": "This artist is very shy and has no description."
         },
         "gallery": [
             {
@@ -375,7 +375,7 @@ const json = [
             },
             "h1": "Nanotech",
             "h4": "StormXros, the Worldwalker",
-            "p": ""
+            "p": "This artist is very shy and has no description."
         },
         "gallery": [
             {
@@ -466,9 +466,9 @@ const json = [
                 "src": "../media/pfp/johnny.png",
                 "alt": "Johnny's profile picture"
             },
-            "h1": "Jonathan Oliviert [ex-employee]",
+            "h1": "Jonathan Oliviert [Ex-employee]",
             "h4": "Johnny",
-            "p": ""
+            "p": "This artist is very shy and has no description."
         },
         "gallery": [
             {

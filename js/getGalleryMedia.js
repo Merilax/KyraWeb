@@ -13,7 +13,7 @@ json.forEach(artist => {
     });
     var artisth1 = $(`<h1></h1>`).text(artist.intro.h1);
     var artisth4 = $(`<h4></h4>`).text(artist.intro.h4);
-    var artistp = $(`<p></p>`).text(artist.intro.p);
+    var artistp = $(`<p></p>`).text(artist.intro.p).attr({ style: "white-space: pre-wrap" });
 
     var gallery = $(`<div></div>`).attr({ class: "artGallery" });
 
