@@ -71,6 +71,10 @@ aside {
 
 /* MAIN */
 
+p {
+    white-space: pre-line;
+}
+
 .artIntro {
     background-color: #444;
     box-shadow: 0 0 8px #111;
@@ -136,6 +140,7 @@ h2 {
     display: block;
     background-color: #444;
 }
+
 .extraMedia::-webkit-scrollbar-thumb {
     background-color: #39c;
 }
