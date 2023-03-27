@@ -468,7 +468,7 @@ const json = [
             },
             "h1": "Iambob",
             "h4": "",
-            "p": "This artist is very shy and has no description."
+            "p": "A meatbag who really likes wings and cool legs, but is far too inactive to really talk on the main discord without feeling like a complete stranger."
         },
         "gallery": [
             {
