@@ -456,6 +456,42 @@ const json = [
                     "https://i.ibb.co/dMvLjv0/white-Night11.png",
                     "https://i.ibb.co/J3Fjks4/white-Night12.png"
                 ]
+            },
+            {
+                "id": "vector",
+                "h3": "Vector",
+                "media": [
+                    "https://i.ibb.co/XpBktyt/vector-1.png",
+                    "https://i.ibb.co/wBc0jX4/vector-2.png",
+                    "https://i.ibb.co/qkTNcCM/vector-3.png",
+                    "https://i.ibb.co/9T1mkM8/vector-4.png",
+                    "https://i.ibb.co/0hmq1FS/vector-5.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/0YPxtwq/vector-1.png",
+                    "https://i.ibb.co/mtrBWCg/vector-2.png",
+                    "https://i.ibb.co/BGfQ3NQ/vector-3.png",
+                    "https://i.ibb.co/0KvxXBG/vector-4.png",
+                    "https://i.ibb.co/yFCHcQq/vector-5.png"
+                ]
+            },
+            {
+                "id": "omega",
+                "h3": "Omega, the Third",
+                "media": [
+                    "https://i.ibb.co/8jGL9Yh/omega-1.png",
+                    "https://i.ibb.co/BsN4TkM/omega-2.png",
+                    "https://i.ibb.co/TcF8qRV/omega-3.png",
+                    "https://i.ibb.co/QnMTdVk/omega-4.png",
+                    "https://i.ibb.co/jMnH494/omega-5.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/0MSVmvm/omega-1.png",
+                    "https://i.ibb.co/vLCyp07/omega-2.png",
+                    "https://i.ibb.co/zN9QFTH/omega-3.png",
+                    "https://i.ibb.co/bQmdXHq/omega-4.png",
+                    "https://i.ibb.co/X5j0Fnh/omega-5.png"
+                ]
             }
         ]
     },
