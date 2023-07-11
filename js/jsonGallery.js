@@ -569,7 +569,14 @@ const json = [
         },
         "gallery": [
             {
-                "h3": "This artist has no entries, or are yet to be registered."
+                "id": "a_rusted_star",
+                "h3": "A Rusted Star",
+                "media": [
+                    "https://i.ibb.co/5KDMWmH/a-Rusted-Star1.png",
+                    "https://i.ibb.co/rtfk2Jq/a-Rusted-Star2.png",
+                    "https://i.ibb.co/ftGJK8Z/a-Rusted-Star3.png",
+                    "https://i.ibb.co/3d6h2Yh/a-Rusted-Star4.png"
+                ]
             }
         ]
     },
