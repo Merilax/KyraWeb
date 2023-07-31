@@ -27,6 +27,7 @@ aside {
     background-color: #236;
     width: 250px;
     height: 100vh;
+    z-index: 5;
 }
 
 .artist {
@@ -101,6 +102,19 @@ p {
     margin: 10px 0;
 }
 
+.description {
+    z-index: 2;
+    position: absolute;
+    display: block;
+    width: 500px;
+    height: 282px;
+    margin: 5px;
+    padding: 10px;
+    background-color: #333;
+    opacity: 0;
+    overflow-y: scroll;
+}
+
 .artGallery h3,
 h2 {
     padding: 10px 50px 0;
@@ -133,7 +147,6 @@ h2 {
     overflow-x: scroll;
     background-color: #333;
     height: fit-content;
-
 }
 
 .extraMedia::-webkit-scrollbar {

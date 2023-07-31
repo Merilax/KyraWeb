@@ -32,3 +32,22 @@ function switchArtist(arg) {
 function switchImage(entry, img) {
     $(`#${entry}`).attr("src", $(`#${img}`).attr("src"));
 }
+
+function showDescript(id) {
+    var descript = $(`#${id}`);
+    descript.animate(
+        { opacity: "0.9" },
+        {
+            duration: 200,
+            queue: false
+        });
+}
+function hideDescript(id) {
+    var descript = $(`#${id}`);
+    descript.animate(
+        { opacity: "0" },
+        {
+            duration: 200,
+            queue: false
+        });
+}

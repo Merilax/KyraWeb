@@ -14,6 +14,8 @@ const json = [
             {
                 "id": "kronos",
                 "h3": "Kronos",
+                "modcount": 200,
+                "descript": "Among the very first hulls made by Merilax. The clock joints are specially reinforced to sustain the inmense force exerted by the spinning handles.",
                 "media": [
                     "https://i.ibb.co/pnv8FQk/kronos1.png"
                 ],
@@ -24,6 +26,8 @@ const json = [
             {
                 "id": "child_of_the_monarch",
                 "h3": "Child of the Monarch",
+                "modcount": 2300,
+                "descript": "Incapable of flight. Mostly because this hull has no internal components other than the necessary to move a bunch of joints. The sword is dull as per safety protocols, though there's not much you can do if that giant piece of metal falls on you.",
                 "media": [
                     "https://i.ibb.co/PwnCLph/child-Of-The-Monarch1.png",
                     "https://i.ibb.co/8xSjGHf/child-Of-The-Monarch2.png",
@@ -40,6 +44,8 @@ const json = [
             {
                 "id": "death_blossom",
                 "h3": "Death Blossom",
+                "modcount": 1000,
+                "descript": "I guess hypnotising the enemy is another way of winning races...?",
                 "media": [
                     "https://i.ibb.co/6rBdv51/death-Blossom1.png",
                     "https://i.ibb.co/GTgCvPp/death-Blossom2.png",
@@ -56,6 +62,8 @@ const json = [
             {
                 "id": "schneejagdtiger",
                 "h3": "Schneejagdtiger",
+                "modcount": 560,
+                "descript": "Yes, it can bite. No, do not try it. No you cannot ride the cat, for fucks sake.",
                 "media": [
                     "https://i.ibb.co/1Q1SfBJ/schneejagdtiger1.png",
                     "https://i.ibb.co/fnD3bp4/schneejagdtiger2.png",
@@ -74,6 +82,8 @@ const json = [
             {
                 "id": "starstruck",
                 "h3": "Starstruck",
+                "modcount": 300,
+                "descript": "Significantly lighter hull compared to the average weight of the rest of mechanomas. The many high-engines in its wings allow for flight.",
                 "media": [
                     "https://i.ibb.co/WvbhQC3/starstruck1.png",
                     "https://i.ibb.co/gvYfS3L/starstruck2.png",
@@ -90,6 +100,8 @@ const json = [
             {
                 "id": "gilgamesh_mk2",
                 "h3": "Gilgamesh MK2",
+                "modcount": 2000,
+                "descript": "The MK1 doesn't exist, it's there just to sound cool. Also, do not ask me what those \"horns\" are, I do not know myself.",
                 "media": [
                     "https://i.ibb.co/QChqSxy/gilgamesh-MK2-1.png",
                     "https://i.ibb.co/TTffRcQ/gilgamesh-MK2-2.png",
@@ -108,6 +120,8 @@ const json = [
             {
                 "id": "dragonite",
                 "h3": "Dragonite",
+                "modcount": 224,
+                "descript": "[Record Expunged]",
                 "media": [
                     "https://i.ibb.co/d7n6WDd/dragonite1.png",
                     "https://i.ibb.co/rw9s3t0/dragonite2.png",
@@ -130,6 +144,8 @@ const json = [
             {
                 "id": "gallahad",
                 "h3": "Gallahad",
+                "modcount": 1000,
+                "descript": "We have to repair the garage floor every time this beast emerges. In fact, 2% of Kyra's budget is directed to daily maintenance of garage floors.",
                 "media": [
                     "https://i.ibb.co/7CQd5jf/gallahad1.png",
                     "https://i.ibb.co/QMVKGsS/gallahad2.png",
@@ -146,6 +162,8 @@ const json = [
             {
                 "id": "Volgograd_type_b",
                 "h3": "Volgograd Type B",
+                "modcount": 3000,
+                "descript": "No, it cannot fly by itself, it holds itself with the lower fins and railgun stand. The tiny drones inside can fly though.",
                 "media": [
                     "https://i.ibb.co/C7HXCPN/volgograd1.png",
                     "https://i.ibb.co/Dff3s5f/volgograd2.png",
@@ -172,6 +190,8 @@ const json = [
             {
                 "id": "kamchatka",
                 "h3": "Kamchatka",
+                "modcount": 350,
+                "descript": "No it is not a lobster...",
                 "media": [
                     "https://i.ibb.co/StsXbwG/kamchatka5.png",
                     "https://i.ibb.co/n8zZdw2/kamchatka1.png",
@@ -190,6 +210,8 @@ const json = [
             {
                 "id": "carnivore",
                 "h3": "Carnivore",
+                "modcount": 2900,
+                "descript": "This is a scolopendra by the way.",
                 "media": [
                     "https://i.ibb.co/wyHSb0G/carnivore1.png",
                     "https://i.ibb.co/68MhXrH/carnivore2.png",
@@ -210,6 +232,8 @@ const json = [
             {
                 "id": "eye_of_the_monarch",
                 "h3": "Eye of the Monarch",
+                "modcount": 10500,
+                "descript": "We had to waste so much money to fit this beast in a hangar...",
                 "media": [
                     "https://i.ibb.co/b2RWpkN/eye-Of-The-Monarch1.png",
                     "https://i.ibb.co/RQdJz5v/eye-Of-The-Monarch2.png",
@@ -234,6 +258,8 @@ const json = [
             {
                 "id": "genocide_type_a",
                 "h3": "Genocide Type A",
+                "modcount": 1850,
+                "descript": "I bet your mechs can run, but can they hide?",
                 "media": [
                     "https://i.ibb.co/ygTDVG3/genocide-Type-A1.png",
                     "https://i.ibb.co/tbQcsV2/genocide-Type-A2.png"
@@ -246,6 +272,8 @@ const json = [
             {
                 "id": "selece",
                 "h3": "Selece",
+                "modcount": 402,
+                "descript": "Idea proposed by Johnny B.",
                 "media": [
                     "https://i.ibb.co/N12pS0f/selece1.png",
                     "https://i.ibb.co/MRZqPby/selece2.png",
@@ -260,6 +288,8 @@ const json = [
             {
                 "id": "novosibirsk",
                 "h3": "Novosibirsk",
+                "modcount": 2600,
+                "descript": "In the summer you can sometimes spot a conglomeration of workers standing behind the spacecraft. The giant fans inside the engine compartment create a very refreshing breeze.",
                 "media": [
                     "https://i.ibb.co/MNYRnRQ/novosibirsk1.png",
                     "https://i.ibb.co/fQVs8VZ/novosibirsk2.png",
@@ -278,6 +308,8 @@ const json = [
             {
                 "id": "sevastopol",
                 "h3": "Sevastopol",
+                "modcount": 4100,
+                "descript": "In times when there is not much to do, we like to gather around the Sevastopol for a fun time together. Hand over a bunch of VR controllers between the workers and let the drone race begin!\nWhat, you thought those were just decoration?",
                 "media": [
                     "https://i.ibb.co/kXgLBfQ/sevastopol1.png",
                     "https://i.ibb.co/YphZZ34/sevastopol2.png",
@@ -292,6 +324,7 @@ const json = [
             {
                 "id": "horizon_gun_carriage",
                 "h3": "Horizon Gun Carriage",
+                "modcount": 1150,
                 "media": [
                     "https://i.ibb.co/cvwFp8H/horizon-Gun-Carriage1.png",
                     "https://i.ibb.co/VCbf4Zj/horizon-Gun-Carriage2.png",
@@ -306,6 +339,7 @@ const json = [
             {
                 "id": "sorrowful_knight",
                 "h3": "Sorrowful Knight",
+                "modcount": 3000,
                 "media": [
                     "https://i.ibb.co/HP54yNT/sorrowful-Knight1.png",
                     "https://i.ibb.co/yNx98Cx/sorrowful-Knight2.png",
@@ -326,6 +360,7 @@ const json = [
             {
                 "id": "nevertale",
                 "h3": "Nevertale",
+                "modcount": 1600,
                 "media": [
                     "https://i.ibb.co/1rHx0m6/nevertale1.png",
                     "https://i.ibb.co/z579xcY/nevertale2.png",
@@ -340,6 +375,7 @@ const json = [
             {
                 "id": "evertale",
                 "h3": "Evertale",
+                "modcount": 2300,
                 "media": [
                     "https://i.ibb.co/J5mSZWh/evertale1.png",
                     "https://i.ibb.co/3fZVVJP/evertale2.png",
@@ -356,6 +392,8 @@ const json = [
             {
                 "id": "k_i_m_obj_279",
                 "h3": "K!I M.Obj 279",
+                "modcount": 160,
+                "descript": "Though not intended for races, this specific unit is somewhat capable of it.",
                 "media": [
                     "https://i.ibb.co/N7bxp7y/K-MObj279-1.png",
                     "https://i.ibb.co/FW14w6v/K-MObj279-2.png",
@@ -372,6 +410,7 @@ const json = [
             {
                 "id": "christmas",
                 "h3": "Christmas",
+                "modcount": 1750,
                 "media": [
                     "https://i.ibb.co/9tdd20K/holiday1.png",
                     "https://i.ibb.co/Bt0zQ4q/holiday2.png"
@@ -384,6 +423,7 @@ const json = [
             {
                 "id": "k_i_heavy_works_unit",
                 "h3": "K!I Heavy Works Unit",
+                "modcount": 2500,
                 "media": [
                     "https://i.ibb.co/9qF9YbL/K-IHeavy-Works-Unit1.png",
                     "https://i.ibb.co/c27CX2m/K-IHeavy-Works-Unit2.png",
@@ -402,6 +442,7 @@ const json = [
             {
                 "id": "ballista_containment",
                 "h3": "Ballista Containment",
+                "modcount": 160,
                 "media": [
                     "https://i.ibb.co/7tV4vV2/ballista-Containment1.png",
                     "https://i.ibb.co/k8YQ7Zv/ballista-Containment2.png",
@@ -418,6 +459,7 @@ const json = [
             {
                 "id": "arbiter",
                 "h3": "Arbiter",
+                "modcount": 77,
                 "media": [
                     "https://i.ibb.co/zhMjZTY/arbiter1.png"
                 ],
@@ -428,6 +470,7 @@ const json = [
             {
                 "id": "whitenight",
                 "h3": "WhiteNight",
+                "modcount": 6200,
                 "media": [
                     "https://i.ibb.co/488KZQF/white-Night1.png",
                     "https://i.ibb.co/71gxxQJ/white-Night2.png",
@@ -460,6 +503,7 @@ const json = [
             {
                 "id": "vector",
                 "h3": "Vector",
+                "modcount": 150,
                 "media": [
                     "https://i.ibb.co/XpBktyt/vector-1.png",
                     "https://i.ibb.co/wBc0jX4/vector-2.png",
@@ -478,6 +522,7 @@ const json = [
             {
                 "id": "omega",
                 "h3": "Omega, the Third",
+                "modcount": 800,
                 "media": [
                     "https://i.ibb.co/8jGL9Yh/omega-1.png",
                     "https://i.ibb.co/BsN4TkM/omega-2.png",
@@ -496,6 +541,7 @@ const json = [
             {
                 "id": "k_i_m_obj_430",
                 "h3": "K!I M.Obj 430",
+                "modcount": 130,
                 "media": [
                     "https://i.ibb.co/27K7NVk/K-IMObj430-1.png",
                     "https://i.ibb.co/3r9kS72/K-IMObj430-2.png",
