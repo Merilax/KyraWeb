@@ -583,6 +583,7 @@ const json = [
             {
                 "id": "dragon_verdict",
                 "h3": "Dragon Verdict",
+                "descript": "Copied my legs from the last frame, and added cool claws on the arms for extra coolness factor™️\nReally enjoying how the butt thrusters look.",
                 "media": [
                     "https://i.ibb.co/brhWQvv/dragon-Verdict1.png",
                     "https://i.ibb.co/QmXyLq5/dragon-Verdict2.png",
@@ -594,6 +595,8 @@ const json = [
             {
                 "id": "genocidal_verdict",
                 "h3": "Genocidal Verdict",
+                "modcount": 300,
+                "descript": "Features:\n-Spinny moving tail\n-Cool Kyra! company head\n-wiiiiiiiings!\n-module scale and inverse port abusing (thanks Cloud)",
                 "media": [
                     "https://i.ibb.co/6HDXTF4/genocidal-Verdict1.png",
                     "https://i.ibb.co/nzzXmS3/genocidal-Verdict2.png",
@@ -607,6 +610,7 @@ const json = [
             {
                 "id": "os_blist",
                 "h3": "OS Blist",
+                "descript": "Submission for event 'Containment Protocol'",
                 "media": [
                     "https://i.ibb.co/QMbQww4/OSBlist1.png",
                     "https://i.ibb.co/VVxLncL/OSBlist2.png",
@@ -633,6 +637,7 @@ const json = [
             {
                 "id": "a_rusted_star",
                 "h3": "A Rusted Star",
+                "descript": "A race-legal unit made by the Artist as a way to become more comfortable with departing from the humanoid form.",
                 "media": [
                     "https://i.ibb.co/5KDMWmH/a-Rusted-Star1.png",
                     "https://i.ibb.co/rtfk2Jq/a-Rusted-Star2.png",
