@@ -542,6 +542,7 @@ const json = [
                 "id": "k_i_m_obj_430",
                 "h3": "K!I M.Obj 430",
                 "modcount": 130,
+                "descript": "Medium class racing unit.\nNot too slow, not too fast. Decently armoured, and average firepower at 10k damage per second.\nCousin of the much stronger, albeit slower, M.Obj 279.",
                 "media": [
                     "https://i.ibb.co/27K7NVk/K-IMObj430-1.png",
                     "https://i.ibb.co/3r9kS72/K-IMObj430-2.png",
@@ -553,6 +554,98 @@ const json = [
                     "https://i.ibb.co/LQjG1gm/K-IMObj430-2.jpg",
                     "https://i.ibb.co/xL5czc6/K-IMObj430-3.jpg",
                     "https://i.ibb.co/ngjLCFp/K-IMObj430-4.jpg"
+                ]
+            },
+            {
+                "id": "k_i_m_obj_906",
+                "h3": "K!I M.Obj 906",
+                "descript": "Controller (medium) class racing unit.\nVery disruptive on the racing track. Equipped with a VBR and a rapid trap gun.\nMines possess an intimidating size, explosive properties, long half-life and are layed out in rapid succession.\nComes pre-installed with two boost missile launchers. Alternatively, we recommend switching these for a boost virus, which the VBR and mines will benefit from greatly.\nMember of the Kyra! Industries Mech Object product line.",
+                "modcount": 130,
+                "media": [
+                    "https://i.ibb.co/Jz2KGfR/K-IMObj906-1.png",
+                    "https://i.ibb.co/d2sHDwq/K-IMObj906-2.png",
+                    "https://i.ibb.co/5r9tD2H/K-IMObj906-3.png",
+                    "https://i.ibb.co/KhY7TRt/K-IMObj906-4.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/PCQTnvM/K-IMObj906-1.png",
+                    "https://i.ibb.co/bvJtFSd/K-IMObj906-2.png",
+                    "https://i.ibb.co/XFpm6yp/K-IMObj906-3.png",
+                    "https://i.ibb.co/4mCQ7fv/K-IMObj906-4.png"
+                ]
+            },
+            {
+                "id": "k_i_m_obj_680",
+                "h3": "K!I M.Obj 680",
+                "descript": "Controller (medium) class racing unit.\nMore aggressive than its cousin Object 906. Equipped with two VBRs in a 2/2% boost virus configuration.\nComes pre-installed with one boost missile launcher and a mine layer.\nMember of the Kyra! Industries Mech Object product line.",
+                "modcount": 130,
+                "media": [
+                    "https://i.ibb.co/BK73kG0/K-IMObj680-1.png",
+                    "https://i.ibb.co/McTrFmY/K-IMObj680-2.png",
+                    "https://i.ibb.co/qp9j8W9/K-IMObj680-3.png",
+                    "https://i.ibb.co/H73KwYD/K-IMObj680-4.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/ScjSs51/K-IMObj680-1.png",
+                    "https://i.ibb.co/mS8Fn21/K-IMObj680-2.png",
+                    "https://i.ibb.co/BfDJYyz/K-IMObj680-3.png",
+                    "https://i.ibb.co/6syP0wD/K-IMObj680-4.png"
+                ]
+            },
+            {
+                "id": "k_i_m_obj_268",
+                "h3": "K!I M.Obj 268",
+                "descript": "Destroyer class racing unit.\nAssault specialist with two medium weapons and heavy plating.\nComes pre-installed with three artillery cannons for long range harassment.\nBy far the strongest amongst it's siblings, yet decently armoured.\nMember of the Kyra! Industries Mech Object product line.",
+                "modcount": 130,
+                "media": [
+                    "https://i.ibb.co/zQpdMtw/K-IMObj268-1.png",
+                    "https://i.ibb.co/b6CnkBg/K-IMObj268-2.png",
+                    "https://i.ibb.co/mFSvYQq/K-IMObj268-3.png",
+                    "https://i.ibb.co/K6WJwyx/K-IMObj268-4.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/GfwJy8s/K-IMObj268-1.png",
+                    "https://i.ibb.co/WfQxc2D/K-IMObj268-2.png",
+                    "https://i.ibb.co/XCdXrWQ/K-IMObj268-3.png",
+                    "https://i.ibb.co/mhL2r4k/K-IMObj268-4.png"
+                ]
+            },
+            {
+                "id": "monolith_f_01",
+                "h3": "МОНОЛИТ F-01",
+                "descript": "A small Monolith combat frigate, originally built to escort high priority cargo ships, dismissed from duty long ago and recently rebuilt by Kyra! Industries as an unorthodox racing unit.\nBarely anything remains from the former ship, which begs the question if this is even the same craft.",
+                "modcount": 160,
+                "media": [
+                    "https://i.ibb.co/qFT2Fzb/F-01-1.png",
+                    "https://i.ibb.co/qxW05fy/F-01-2.png",
+                    "https://i.ibb.co/VjjLCyH/F-01-3.png",
+                    "https://i.ibb.co/6Y34RzH/F-01-4.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/CwBZGQq/F-01-1.png",
+                    "https://i.ibb.co/wyM3dNZ/F-01-2.png",
+                    "https://i.ibb.co/2dw62T1/F-01-3.png",
+                    "https://i.ibb.co/cTKFL4c/F-01-4.png"
+                ]
+            },
+            {
+                "id": "criteria_type_obj",
+                "h3": "Criretia Type_Obj",
+                "descript": "An alteration of the Criteria frame, updated to modern standards and quite bulky, with a touch of Kyra!'s artistic sense.",
+                "modcount": 114,
+                "media": [
+                    "https://i.ibb.co/WF4ghYW/criteria-Type-Obj1.png",
+                    "https://i.ibb.co/0hhbQcY/criteria-Type-Obj2.png",
+                    "https://i.ibb.co/4N1cWCy/criteria-Type-Obj3.png",
+                    "https://i.ibb.co/Fx01WYv/criteria-Type-Obj4.png",
+                    "https://i.ibb.co/ygCTGqC/criteria-Type-Obj5.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/Cn7wtbv/criteria-Type-Obj1.png",
+                    "https://i.ibb.co/hYnf7ym/criteria-Type-Obj2.png",
+                    "https://i.ibb.co/xqGDcj3/criteria-Type-Obj3.png",
+                    "https://i.ibb.co/372Wrry/criteria-Type-Obj4.png",
+                    "https://i.ibb.co/DDhj8qs/criteria-Type-Obj5.png"
                 ]
             }
         ]
@@ -736,6 +829,77 @@ const json = [
                     "https://i.ibb.co/4StH46X/paladin-Of-Frost6.png",
                     "https://i.ibb.co/hCQp7mn/paladin-Of-Frost7.png",
                     "https://i.ibb.co/CQC5RXQ/paladin-Of-Frost8.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "x_x",
+        "intro": {
+            "img": {
+                "src": "../media/pfp/x_x.png",
+                "alt": "X_X's profile picture"
+            },
+            "h1": "X_X",
+            "h4": "",
+            "p": "This artist is very shy and has no description."
+        },
+        "gallery": [
+            {
+                "id": "neo_normalizer_i",
+                "h3": "Neo-Normalizer i",
+                "media": [
+                    "https://i.ibb.co/mc72D14/neo-Normalizer-I.png"
+                ]
+            },
+            {
+                "id": "neo_normalizer_ii",
+                "h3": "Neo-Normalizer ii",
+                "media": [
+                    "https://i.ibb.co/zRQ6xcg/neo-Normalizer-Ii.png"
+                ]
+            },
+            {
+                "id": "neo_normalizer_iii",
+                "h3": "Neo-Normalizer iii",
+                "media": [
+                    "https://i.ibb.co/k5FMTnm/neo-Normalizer-Iii.png"
+                ]
+            },
+            {
+                "id": "neo_tarantula",
+                "h3": "Neo-Tarantula",
+                "media": [
+                    "https://i.ibb.co/G3tppmX/neo-Tarantula.png"
+                ]
+            },
+            {
+                "id": "neo_azalea",
+                "h3": "Neo-Azalea",
+                "media": [
+                    "https://i.ibb.co/Xt56Kvt/neo-Azalea.png"
+                ]
+            },
+            {
+                "id": "neo_musashi",
+                "h3": "Neo-Musashi",
+                "media": [
+                    "https://i.ibb.co/4WHdKg3/neo-Musashi.png"
+                ]
+            },
+            {
+                "id": "v3",
+                "h3": "V3",
+                "media": [
+                    "https://i.ibb.co/VHhpdBp/v31.png",
+                    "https://i.ibb.co/qk7b8jP/v32.png"
+                ]
+            },
+            {
+                "id": "neo_blockhead",
+                "h3": "Neo-Blockhead",
+                "media": [
+                    "https://i.ibb.co/NYstKpn/neo-Blockhead.png"
                 ]
             }
         ]
