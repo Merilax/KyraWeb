@@ -560,7 +560,7 @@ const json = [
                 "id": "k_i_m_obj_906",
                 "h3": "K!I M.Obj 906",
                 "descript": "Controller (medium) class racing unit.\nVery disruptive on the racing track. Equipped with a VBR and a rapid trap gun.\nMines possess an intimidating size, explosive properties, long half-life and are layed out in rapid succession.\nComes pre-installed with two boost missile launchers. Alternatively, we recommend switching these for a boost virus, which the VBR and mines will benefit from greatly.\nMember of the Kyra! Industries Mech Object product line.",
-                "modcount": 130,
+                "modcount": 140,
                 "media": [
                     "https://i.ibb.co/Jz2KGfR/K-IMObj906-1.png",
                     "https://i.ibb.co/d2sHDwq/K-IMObj906-2.png",
@@ -578,7 +578,7 @@ const json = [
                 "id": "k_i_m_obj_680",
                 "h3": "K!I M.Obj 680",
                 "descript": "Controller (medium) class racing unit.\nMore aggressive than its cousin Object 906. Equipped with two VBRs in a 2/2% boost virus configuration.\nComes pre-installed with one boost missile launcher and a mine layer.\nMember of the Kyra! Industries Mech Object product line.",
-                "modcount": 130,
+                "modcount": 122,
                 "media": [
                     "https://i.ibb.co/BK73kG0/K-IMObj680-1.png",
                     "https://i.ibb.co/McTrFmY/K-IMObj680-2.png",
@@ -596,7 +596,7 @@ const json = [
                 "id": "k_i_m_obj_268",
                 "h3": "K!I M.Obj 268",
                 "descript": "Destroyer class racing unit.\nAssault specialist with two medium weapons and heavy plating.\nComes pre-installed with three artillery cannons for long range harassment.\nBy far the strongest amongst it's siblings, yet decently armoured.\nMember of the Kyra! Industries Mech Object product line.",
-                "modcount": 130,
+                "modcount": 149,
                 "media": [
                     "https://i.ibb.co/zQpdMtw/K-IMObj268-1.png",
                     "https://i.ibb.co/b6CnkBg/K-IMObj268-2.png",
