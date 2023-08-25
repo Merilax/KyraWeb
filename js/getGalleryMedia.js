@@ -60,12 +60,25 @@ json.forEach(artist => {
 
             // Main window
             var mainimg = $(`<img />`).attr({
-                src: mech.media[0],
+                //src: mech.media[0],
                 alt: "1",
                 class: "first",
                 id: mech.id,
                 loading: "lazy"
             });
+
+            try {
+                // Thumbnail
+                const mechthumb = mech.thumb[i - 1];
+                mainimg.attr({
+                    src: mechthumb
+                });
+            } catch (error) {
+                // If no thumbnail use main img
+                mainimg.attr({
+                    src: mech.media[0]
+                });
+            }
 
             // Description (main window)
             var descript = $(`<span></span>`);

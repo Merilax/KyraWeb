@@ -20,7 +20,7 @@ const json = [
                     "https://i.ibb.co/pnv8FQk/kronos1.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/K5gnfvp/kronos1.png"
+                    "https://i.ibb.co/THgFPPK/kronos1.jpg"
                 ]
             },
             {
@@ -35,10 +35,10 @@ const json = [
                     "https://i.ibb.co/FDTx1QJ/child-Of-The-Monarch4.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/Vmf0GtN/child-Of-The-Monarch1.png",
-                    "https://i.ibb.co/56FhJkK/child-Of-The-Monarch2.png",
-                    "https://i.ibb.co/FYFjmN0/child-Of-The-Monarch3.png",
-                    "https://i.ibb.co/2kcdspr/child-Of-The-Monarch4.png"
+                    "https://i.ibb.co/rZTJY4g/child-Of-The-Monarch1.jpg",
+                    "https://i.ibb.co/pzJTB35/child-Of-The-Monarch2.jpg",
+                    "https://i.ibb.co/s2xKnw7/child-Of-The-Monarch3.jpg",
+                    "https://i.ibb.co/pw8YXjG/child-Of-The-Monarch4.jpg"
                 ]
             },
             {
@@ -53,10 +53,10 @@ const json = [
                     "https://i.ibb.co/DC2gbgH/death-Blossom4.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/3MbGWBM/death-Blossom1.png",
-                    "https://i.ibb.co/f4fNFHV/death-Blossom2.png",
-                    "https://i.ibb.co/CMN9K50/death-Blossom3.png",
-                    "https://i.ibb.co/x7JDyNd/death-Blossom4.png"
+                    "https://i.ibb.co/jk8BkZ8/death-Blossom1.jpg",
+                    "https://i.ibb.co/LJtfjJG/death-Blossom2.jpg",
+                    "https://i.ibb.co/w09f4C5/death-Blossom3.jpg",
+                    "https://i.ibb.co/mhYfTyZ/death-Blossom4.jpg"
                 ]
             },
             {
@@ -72,11 +72,11 @@ const json = [
                     "https://i.ibb.co/vHj2mhP/schneejagdtiger5.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/s9MtFBS/schneejagdtiger1.png",
-                    "https://i.ibb.co/TmZ5GML/schneejagdtiger2.png",
-                    "https://i.ibb.co/xFhDJys/schneejagdtiger3.png",
-                    "https://i.ibb.co/ZWZLGCP/schneejagdtiger4.png",
-                    "https://i.ibb.co/mBkKBk2/schneejagdtiger5.png"
+                    "https://i.ibb.co/0Yc36hz/schneejagdtiger1.jpg",
+                    "https://i.ibb.co/WvLY7WH/schneejagdtiger2.jpg",
+                    "https://i.ibb.co/bmZ4GmC/schneejagdtiger3.jpg",
+                    "https://i.ibb.co/dPh5wgC/schneejagdtiger4.jpg",
+                    "https://i.ibb.co/JK5qKGn/schneejagdtiger5.jpg"
                 ]
             },
             {
@@ -91,10 +91,10 @@ const json = [
                     "https://i.ibb.co/bKY0S1R/starstruck4.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/VwYJW87/starstruck1.png",
-                    "https://i.ibb.co/fxQ6d0x/starstruck2.png",
-                    "https://i.ibb.co/QJq1GL9/starstruck3.png",
-                    "https://i.ibb.co/3WmRGj8/starstruck4.png"
+                    "https://i.ibb.co/kmJzxRQ/starstruck1.jpg",
+                    "https://i.ibb.co/Bf4k2tT/starstruck2.jpg",
+                    "https://i.ibb.co/3pk70Gd/starstruck3.jpg",
+                    "https://i.ibb.co/XyVbmZT/starstruck4.jpg"
                 ]
             },
             {
@@ -110,11 +110,11 @@ const json = [
                     "https://i.ibb.co/PQSM7k3/gilgamesh-MK2-5.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/SwTrM35/gilgamesh-MK2-1.png",
-                    "https://i.ibb.co/cQ23kyY/gilgamesh-MK2-2.png",
-                    "https://i.ibb.co/JmbxjzK/gilgamesh-MK2-3.png",
-                    "https://i.ibb.co/cNnbT1T/gilgamesh-MK2-4.png",
-                    "https://i.ibb.co/pytvrxb/gilgamesh-MK2-5.png"
+                    "https://i.ibb.co/rG16807/gilgamesh-MK2-1.jpg",
+                    "https://i.ibb.co/f0Yf8NB/gilgamesh-MK2-2.jpg",
+                    "https://i.ibb.co/V2FVDdF/gilgamesh-MK2-3.jpg",
+                    "https://i.ibb.co/TqnSjZL/gilgamesh-MK2-4.jpg",
+                    "https://i.ibb.co/G0vykXS/gilgamesh-MK2-5.jpg"
                 ]
             },
             {
@@ -132,13 +132,13 @@ const json = [
                     "https://i.ibb.co/1bvQ8bB/dragonite7.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/gDSt58r/dragonite1.png",
-                    "https://i.ibb.co/QXCr1VR/dragonite2.png",
-                    "https://i.ibb.co/xfFBpP8/dragonite3.png",
-                    "https://i.ibb.co/km3SQ63/dragonite4.png",
-                    "https://i.ibb.co/FJsx2Yb/dragonite5.png",
-                    "https://i.ibb.co/R3Tz4kP/dragonite6.png",
-                    "https://i.ibb.co/HzZN1F1/dragonite7.png"
+                    "https://i.ibb.co/mNbzs5X/dragonite1.jpg",
+                    "https://i.ibb.co/qJfFqPL/dragonite2.jpg",
+                    "https://i.ibb.co/DKXccTX/dragonite3.jpg",
+                    "https://i.ibb.co/Jq970Nb/dragonite4.jpg",
+                    "https://i.ibb.co/g9pbHd6/dragonite5.jpg",
+                    "https://i.ibb.co/fCdw22d/dragonite6.jpg",
+                    "https://i.ibb.co/F8Cmnr4/dragonite7.jpg"
                 ]
             },
             {
@@ -153,10 +153,10 @@ const json = [
                     "https://i.ibb.co/CMX0h6y/gallahad4.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/GTWf5HS/gallahad1.png",
-                    "https://i.ibb.co/xscBRMS/gallahad2.png",
-                    "https://i.ibb.co/BcbnZ6w/gallahad3.png",
-                    "https://i.ibb.co/GpbxNF4/gallahad4.png"
+                    "https://i.ibb.co/z6psLZx/gallahad1.jpg",
+                    "https://i.ibb.co/BNxhYMW/gallahad2.jpg",
+                    "https://i.ibb.co/6NYzdzQ/gallahad3.jpg",
+                    "https://i.ibb.co/9sQDxPz/gallahad4.jpg"
                 ]
             },
             {
@@ -176,15 +176,15 @@ const json = [
                     "https://i.ibb.co/rx5VRQ2/volgograd9.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/q0myt3R/volgograd1.png",
-                    "https://i.ibb.co/wJTFjTT/volgograd2.png",
-                    "https://i.ibb.co/dJBMnyy/volgograd3.png",
-                    "https://i.ibb.co/89ftL2R/volgograd4.png",
-                    "https://i.ibb.co/BGGMGgk/volgograd5.png",
-                    "https://i.ibb.co/NyLWD8m/volgograd6.png",
-                    "https://i.ibb.co/k9jsB7x/volgograd7.png",
-                    "https://i.ibb.co/87Pkg5F/volgograd8.png",
-                    "https://i.ibb.co/Lnk5XDk/volgograd9.png"
+                    "https://i.ibb.co/v48gWzm/volgograd1.jpg",
+                    "https://i.ibb.co/BCYb2Br/volgograd2.jpg",
+                    "https://i.ibb.co/BfssrW5/volgograd3.jpg",
+                    "https://i.ibb.co/HBRNmdT/volgograd4.jpg",
+                    "https://i.ibb.co/PmGVjgX/volgograd5.jpg",
+                    "https://i.ibb.co/0sr09Hw/volgograd6.jpg",
+                    "https://i.ibb.co/myNTK3k/volgograd7.jpg",
+                    "https://i.ibb.co/VBH89Ym/volgograd8.jpg",
+                    "https://i.ibb.co/BwPNLpT/volgograd9.jpg"
                 ]
             },
             {
@@ -200,11 +200,11 @@ const json = [
                     "https://i.ibb.co/vZw4JFC/kamchatka4.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/GsPMqnZ/kamchatka1.png",
-                    "https://i.ibb.co/VYc9tzy/kamchatka2.png",
-                    "https://i.ibb.co/GJGyhN6/kamchatka3.png",
-                    "https://i.ibb.co/wLtR840/kamchatka4.png",
-                    "https://i.ibb.co/KwQmr0W/kamchatka5.png"
+                    "https://i.ibb.co/g6F9CgV/kamchatka1.jpg",
+                    "https://i.ibb.co/x6qQ6x3/kamchatka2.jpg",
+                    "https://i.ibb.co/vHwhcT3/kamchatka3.jpg",
+                    "https://i.ibb.co/Fm5JZBh/kamchatka4.jpg",
+                    "https://i.ibb.co/q7VDr9m/kamchatka5.jpg"
                 ]
             },
             {
@@ -221,12 +221,12 @@ const json = [
                     "https://i.ibb.co/6nXyc2F/carnivore6.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/122DcCX/carnivore1.png",
-                    "https://i.ibb.co/wLwDnqj/carnivore2.png",
-                    "https://i.ibb.co/YLvNKHD/carnivore3.png",
-                    "https://i.ibb.co/2WXkCns/carnivore4.png",
-                    "https://i.ibb.co/kK3Xky1/carnivore5.png",
-                    "https://i.ibb.co/FYrSwVx/carnivore6.png"
+                    "https://i.ibb.co/QbkgSH3/carnivore1.jpg",
+                    "https://i.ibb.co/xS0Y4Gk/carnivore2.jpg",
+                    "https://i.ibb.co/Cv0JBs3/carnivore3.jpg",
+                    "https://i.ibb.co/Y74s1Yv/carnivore4.jpg",
+                    "https://i.ibb.co/479hq2V/carnivore5.jpg",
+                    "https://i.ibb.co/y68sjSz/carnivore6.jpg"
                 ]
             },
             {
@@ -245,14 +245,14 @@ const json = [
                     "https://i.ibb.co/ScdYJmM/eye-Of-The-Monarch8.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/qxFLXsw/eye-Of-The-Monarch1.png",
-                    "https://i.ibb.co/G29LGZ6/eye-Of-The-Monarch2.png",
-                    "https://i.ibb.co/BGY3x1D/eye-Of-The-Monarch3.png",
-                    "https://i.ibb.co/s2RzpDL/eye-Of-The-Monarch4.png",
-                    "https://i.ibb.co/680Bshk/eye-Of-The-Monarch5.png",
-                    "https://i.ibb.co/3zyVB4d/eye-Of-The-Monarch6.png",
-                    "https://i.ibb.co/2Y4XQPb/eye-Of-The-Monarch7.png",
-                    "https://i.ibb.co/Lxwr71t/eye-Of-The-Monarch8.png"
+                    "https://i.ibb.co/Kb9BCJw/eye-Of-The-Monarch1.jpg",
+                    "https://i.ibb.co/fqsdT6z/eye-Of-The-Monarch2.jpg",
+                    "https://i.ibb.co/QMC1G9p/eye-Of-The-Monarch3.jpg",
+                    "https://i.ibb.co/3fT2Dm7/eye-Of-The-Monarch4.jpg",
+                    "https://i.ibb.co/6PKMdDS/eye-Of-The-Monarch5.jpg",
+                    "https://i.ibb.co/sC7x8hT/eye-Of-The-Monarch6.jpg",
+                    "https://i.ibb.co/Sxy4yhB/eye-Of-The-Monarch7.jpg",
+                    "https://i.ibb.co/rmKpdqC/eye-Of-The-Monarch8.jpg"
                 ]
             },
             {
@@ -265,8 +265,8 @@ const json = [
                     "https://i.ibb.co/tbQcsV2/genocide-Type-A2.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/8gH3NF4/genocide-Type-A1.png",
-                    "https://i.ibb.co/Jq93JnD/genocide-Type-A2.png"
+                    "https://i.ibb.co/grjmVcX/genocide-Type-A1.jpg",
+                    "https://i.ibb.co/9Ynrfty/genocide-Type-A2.jpg"
                 ]
             },
             {
@@ -280,9 +280,9 @@ const json = [
                     "https://i.ibb.co/G0SSHpL/selece3.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/SdZjS0G/selece1.png",
-                    "https://i.ibb.co/KD0bxYV/selece2.png",
-                    "https://i.ibb.co/w0WWqJt/selece3.png"
+                    "https://i.ibb.co/Dr01xfM/selece1.jpg",
+                    "https://i.ibb.co/yStqjj6/selece2.jpg",
+                    "https://i.ibb.co/qBvbFys/selece3.jpg"
                 ]
             },
             {
@@ -298,11 +298,11 @@ const json = [
                     "https://i.ibb.co/bR2Qgy2/novosibirsk5.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/1fv3Xyc/novosibirsk1.png",
-                    "https://i.ibb.co/CQn578Q/novosibirsk2.png",
-                    "https://i.ibb.co/WyrhvVK/novosibirsk3.png",
-                    "https://i.ibb.co/rpXqxdR/novosibirsk4.png",
-                    "https://i.ibb.co/XXYJ1pH/novosibirsk5.png"
+                    "https://i.ibb.co/rFJrNmm/novosibirsk1.jpg",
+                    "https://i.ibb.co/W5hZdN7/novosibirsk2.jpg",
+                    "https://i.ibb.co/wSBgBp9/novosibirsk3.jpg",
+                    "https://i.ibb.co/2h761TD/novosibirsk4.jpg",
+                    "https://i.ibb.co/Rhm3Kmy/novosibirsk5.jpg"
                 ]
             },
             {
@@ -316,9 +316,9 @@ const json = [
                     "https://i.ibb.co/H2pxg7q/sevastopol3.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/4JM3ws5/sevastopol1.png",
-                    "https://i.ibb.co/rxv1JBc/sevastopol2.png",
-                    "https://i.ibb.co/dGLv9nS/sevastopol3.png"
+                    "https://i.ibb.co/fv5rFPP/sevastopol1.jpg",
+                    "https://i.ibb.co/sHzxkLb/sevastopol2.jpg",
+                    "https://i.ibb.co/yNypPjW/sevastopol3.jpg"
                 ]
             },
             {
@@ -331,9 +331,9 @@ const json = [
                     "https://i.ibb.co/CztwYrG/horizon-Gun-Carriage3.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/GTwwxR3/horizon-Gun-Carriage1.png",
-                    "https://i.ibb.co/CPRWPqc/horizon-Gun-Carriage2.png",
-                    "https://i.ibb.co/31r8vYw/horizon-Gun-Carriage3.png"
+                    "https://i.ibb.co/1Td69zh/horizon-Gun-Carriage1.jpg",
+                    "https://i.ibb.co/vDP7LwH/horizon-Gun-Carriage2.jpg",
+                    "https://i.ibb.co/v4Bh2Pz/horizon-Gun-Carriage3.jpg"
                 ]
             },
             {
@@ -349,12 +349,12 @@ const json = [
                     "https://i.ibb.co/JHbMBmh/sorrowful-Knight6.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/GTmq6bM/sorrowful-Knight1.png",
-                    "https://i.ibb.co/QftyzH8/sorrowful-Knight2.png",
-                    "https://i.ibb.co/PYmxtNK/sorrowful-Knight3.png",
-                    "https://i.ibb.co/1zF971p/sorrowful-Knight4.png",
-                    "https://i.ibb.co/86gJsRk/sorrowful-Knight5.png",
-                    "https://i.ibb.co/pJPZPPb/sorrowful-Knight6.png"
+                    "https://i.ibb.co/25Mm8nr/sorrowful-Knight1.jpg",
+                    "https://i.ibb.co/7XGFqLR/sorrowful-Knight2.jpg",
+                    "https://i.ibb.co/Csrgqwf/sorrowful-Knight3.jpg",
+                    "https://i.ibb.co/YbThmDF/sorrowful-Knight4.jpg",
+                    "https://i.ibb.co/dpnYcJv/sorrowful-Knight5.jpg",
+                    "https://i.ibb.co/MNq5dVJ/sorrowful-Knight6.jpg"
                 ]
             },
             {
@@ -367,9 +367,9 @@ const json = [
                     "https://i.ibb.co/KqTnvQm/nevertale3.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/7SfDQrn/nevertale1.png",
-                    "https://i.ibb.co/cx5DRLf/nevertale2.png",
-                    "https://i.ibb.co/KwrzFf6/nevertale3.png"
+                    "https://i.ibb.co/jfHkf8N/nevertale1.jpg",
+                    "https://i.ibb.co/bLSGpBK/nevertale2.jpg",
+                    "https://i.ibb.co/zJHGrzf/nevertale3.jpg"
                 ]
             },
             {
@@ -383,10 +383,10 @@ const json = [
                     "https://i.ibb.co/ZXZrszK/evertale4.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/XxnBgBY/evertale1.png",
-                    "https://i.ibb.co/7zw70Sk/evertale2.png",
-                    "https://i.ibb.co/dJYfPzV/evertale3.png",
-                    "https://i.ibb.co/r6GfSYB/evertale4.png"
+                    "https://i.ibb.co/pyk7pV6/evertale1.jpg",
+                    "https://i.ibb.co/QdHrwg2/evertale2.jpg",
+                    "https://i.ibb.co/2SV8P7B/evertale3.jpg",
+                    "https://i.ibb.co/zQ0BxBs/evertale4.jpg"
                 ]
             },
             {
@@ -401,10 +401,10 @@ const json = [
                     "https://i.ibb.co/0ZvpgN5/K-MObj279-4.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/t46frTS/K-MObj279-1.png",
-                    "https://i.ibb.co/RCcyHXS/K-MObj279-2.png",
-                    "https://i.ibb.co/9WScJCY/K-MObj279-3.png",
-                    "https://i.ibb.co/7KQdybq/K-MObj279-4.png"
+                    "https://i.ibb.co/TPmkVzs/K-MObj279-1.jpg",
+                    "https://i.ibb.co/M8zBryG/K-MObj279-2.jpg",
+                    "https://i.ibb.co/ncd5xmD/K-MObj279-3.jpg",
+                    "https://i.ibb.co/7gBDnhy/K-MObj279-4.jpg"
                 ]
             },
             {
@@ -416,8 +416,8 @@ const json = [
                     "https://i.ibb.co/Bt0zQ4q/holiday2.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/d6LLGw6/holiday1.png",
-                    "https://i.ibb.co/Srg0Fp9/holiday2.png"
+                    "https://i.ibb.co/hFWP2TX/holiday1.jpg",
+                    "https://i.ibb.co/Ky5V0nn/holiday2.jpg"
                 ]
             },
             {
@@ -432,11 +432,11 @@ const json = [
                     "https://i.ibb.co/Stwh8BZ/K-IHeavy-Works-Unit5.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/bPLmL83/K-IHeavy-Works-Unit1.png",
-                    "https://i.ibb.co/Hh01JB2/K-IHeavy-Works-Unit2.png",
-                    "https://i.ibb.co/w6Fq0FL/K-IHeavy-Works-Unit3.png",
-                    "https://i.ibb.co/s6B8Z20/K-IHeavy-Works-Unit4.png",
-                    "https://i.ibb.co/zSmXSMy/K-IHeavy-Works-Unit5.png"
+                    "https://i.ibb.co/BZj9fjM/K-IHeavy-Works-Unit1.jpg",
+                    "https://i.ibb.co/f1QMnbs/K-IHeavy-Works-Unit2.jpg",
+                    "https://i.ibb.co/X7j9mLm/K-IHeavy-Works-Unit3.jpg",
+                    "https://i.ibb.co/StG0b5J/K-IHeavy-Works-Unit4.jpg",
+                    "https://i.ibb.co/55PStZz/K-IHeavy-Works-Unit5.jpg"
                 ]
             },
             {
@@ -450,10 +450,10 @@ const json = [
                     "https://i.ibb.co/nspvnqm/ballista-Containment4.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/wL7qLCb/ballista-Containment1.png",
-                    "https://i.ibb.co/wMLXc11/ballista-Containment2.png",
-                    "https://i.ibb.co/n84ZCGw/ballista-Containment3.png",
-                    "https://i.ibb.co/Z8cs7rn/ballista-Containment4.png"
+                    "https://i.ibb.co/sPxykPC/ballista-Containment1.jpg",
+                    "https://i.ibb.co/3p4SwLk/ballista-Containment2.jpg",
+                    "https://i.ibb.co/BnqDGX4/ballista-Containment3.jpg",
+                    "https://i.ibb.co/6DM67cv/ballista-Containment4.jpg"
                 ]
             },
             {
@@ -464,7 +464,7 @@ const json = [
                     "https://i.ibb.co/zhMjZTY/arbiter1.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/WDJHkV2/arbiter1.png"
+                    "https://i.ibb.co/6D4C2yf/arbiter1.jpg"
                 ]
             },
             {
@@ -486,18 +486,18 @@ const json = [
                     "https://i.ibb.co/Nt2krQJ/white-Night12.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/Nn05NM1/white-Night1.png",
-                    "https://i.ibb.co/6Ns89xL/white-Night2.png",
-                    "https://i.ibb.co/fd2cdzK/white-Night3.png",
-                    "https://i.ibb.co/6shJbC7/white-Night4.png",
-                    "https://i.ibb.co/jwRSjdZ/white-Night5.png",
-                    "https://i.ibb.co/DMxTtW8/white-Night6.png",
-                    "https://i.ibb.co/hR1pHnN/white-Night7.png",
-                    "https://i.ibb.co/N1sgSZ4/white-Night8.png",
-                    "https://i.ibb.co/SdkW3K6/white-Night9.png",
-                    "https://i.ibb.co/1GH21Zk/white-Night10.png",
-                    "https://i.ibb.co/dMvLjv0/white-Night11.png",
-                    "https://i.ibb.co/J3Fjks4/white-Night12.png"
+                    "https://i.ibb.co/749gWhM/white-Night1.jpg",
+                    "https://i.ibb.co/NshXwVZ/white-Night2.jpg",
+                    "https://i.ibb.co/7tj0mLx/white-Night3.jpg",
+                    "https://i.ibb.co/Sw8f1XH/white-Night4.jpg",
+                    "https://i.ibb.co/QCLTGKJ/white-Night5.jpg",
+                    "https://i.ibb.co/JdjLw2r/white-Night6.jpg",
+                    "https://i.ibb.co/T8d0jXP/white-Night7.jpg",
+                    "https://i.ibb.co/0BZ1VtZ/white-Night8.jpg",
+                    "https://i.ibb.co/r4W9Bjq/white-Night9.jpg",
+                    "https://i.ibb.co/zQ6NqSD/white-Night10.jpg",
+                    "https://i.ibb.co/yWf7sqK/white-Night11.jpg",
+                    "https://i.ibb.co/sPS7bws/white-Night12.jpg"
                 ]
             },
             {
@@ -512,11 +512,11 @@ const json = [
                     "https://i.ibb.co/0hmq1FS/vector-5.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/0YPxtwq/vector-1.png",
-                    "https://i.ibb.co/mtrBWCg/vector-2.png",
-                    "https://i.ibb.co/BGfQ3NQ/vector-3.png",
-                    "https://i.ibb.co/0KvxXBG/vector-4.png",
-                    "https://i.ibb.co/yFCHcQq/vector-5.png"
+                    "https://i.ibb.co/zGFwVtt/vector-1.jpg",
+                    "https://i.ibb.co/09vCJ7S/vector-2.jpg",
+                    "https://i.ibb.co/945y74f/vector-3.jpg",
+                    "https://i.ibb.co/23V8BPn/vector-4.jpg",
+                    "https://i.ibb.co/fnFRws5/vector-5.jpg"
                 ]
             },
             {
@@ -531,11 +531,11 @@ const json = [
                     "https://i.ibb.co/jMnH494/omega-5.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/0MSVmvm/omega-1.png",
-                    "https://i.ibb.co/vLCyp07/omega-2.png",
-                    "https://i.ibb.co/zN9QFTH/omega-3.png",
-                    "https://i.ibb.co/bQmdXHq/omega-4.png",
-                    "https://i.ibb.co/X5j0Fnh/omega-5.png"
+                    "https://i.ibb.co/QFTXJ6m/omega-1.jpg",
+                    "https://i.ibb.co/gwGjdHL/omega-2.jpg",
+                    "https://i.ibb.co/F0XwzFh/omega-3.jpg",
+                    "https://i.ibb.co/8xTxQLP/omega-4.jpg",
+                    "https://i.ibb.co/ky47Xc6/omega-5.jpg"
                 ]
             },
             {
@@ -550,10 +550,10 @@ const json = [
                     "https://i.ibb.co/8zftZVv/K-IMObj430-4.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/cgnFPsx/K-IMObj430-1.jpg",
-                    "https://i.ibb.co/LQjG1gm/K-IMObj430-2.jpg",
-                    "https://i.ibb.co/xL5czc6/K-IMObj430-3.jpg",
-                    "https://i.ibb.co/ngjLCFp/K-IMObj430-4.jpg"
+                    "https://i.ibb.co/9sfJ7BN/K-IMObj430-1.jpg",
+                    "https://i.ibb.co/HHMb2Zt/K-IMObj430-2.jpg",
+                    "https://i.ibb.co/w7sm4Lc/K-IMObj430-3.jpg",
+                    "https://i.ibb.co/HH9G091/K-IMObj430-4.jpg"
                 ]
             },
             {
@@ -568,10 +568,10 @@ const json = [
                     "https://i.ibb.co/KhY7TRt/K-IMObj906-4.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/PCQTnvM/K-IMObj906-1.png",
-                    "https://i.ibb.co/bvJtFSd/K-IMObj906-2.png",
-                    "https://i.ibb.co/XFpm6yp/K-IMObj906-3.png",
-                    "https://i.ibb.co/4mCQ7fv/K-IMObj906-4.png"
+                    "https://i.ibb.co/kq6cq1q/K-IMObj906-1.jpg",
+                    "https://i.ibb.co/T0FjKr2/K-IMObj906-2.jpg",
+                    "https://i.ibb.co/DVKnkDM/K-IMObj906-3.jpg",
+                    "https://i.ibb.co/HNS65Kg/K-IMObj906-4.jpg"
                 ]
             },
             {
@@ -586,10 +586,10 @@ const json = [
                     "https://i.ibb.co/H73KwYD/K-IMObj680-4.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/ScjSs51/K-IMObj680-1.png",
-                    "https://i.ibb.co/mS8Fn21/K-IMObj680-2.png",
-                    "https://i.ibb.co/BfDJYyz/K-IMObj680-3.png",
-                    "https://i.ibb.co/6syP0wD/K-IMObj680-4.png"
+                    "https://i.ibb.co/Lt6f3BZ/K-IMObj680-1.jpg",
+                    "https://i.ibb.co/3y0GfcJ/K-IMObj680-2.jpg",
+                    "https://i.ibb.co/m9b74Pb/K-IMObj680-3.jpg",
+                    "https://i.ibb.co/hY502j0/K-IMObj680-4.jpg"
                 ]
             },
             {
@@ -604,10 +604,10 @@ const json = [
                     "https://i.ibb.co/K6WJwyx/K-IMObj268-4.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/GfwJy8s/K-IMObj268-1.png",
-                    "https://i.ibb.co/WfQxc2D/K-IMObj268-2.png",
-                    "https://i.ibb.co/XCdXrWQ/K-IMObj268-3.png",
-                    "https://i.ibb.co/mhL2r4k/K-IMObj268-4.png"
+                    "https://i.ibb.co/p4Sb61s/K-IMObj268-1.jpg",
+                    "https://i.ibb.co/WWhMGk4/K-IMObj268-2.jpg",
+                    "https://i.ibb.co/mJtTB1b/K-IMObj268-3.jpg",
+                    "https://i.ibb.co/SNq6sn9/K-IMObj268-4.jpg"
                 ]
             },
             {
@@ -622,10 +622,10 @@ const json = [
                     "https://i.ibb.co/6Y34RzH/F-01-4.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/CwBZGQq/F-01-1.png",
-                    "https://i.ibb.co/wyM3dNZ/F-01-2.png",
-                    "https://i.ibb.co/2dw62T1/F-01-3.png",
-                    "https://i.ibb.co/cTKFL4c/F-01-4.png"
+                    "https://i.ibb.co/61pzZWR/F-01-1.jpg",
+                    "https://i.ibb.co/KV2Hzjv/F-01-2.jpg",
+                    "https://i.ibb.co/dj215m1/F-01-3.jpg",
+                    "https://i.ibb.co/QFCdjMX/F-01-4.jpg"
                 ]
             },
             {
@@ -641,11 +641,31 @@ const json = [
                     "https://i.ibb.co/ygCTGqC/criteria-Type-Obj5.png"
                 ],
                 "thumb": [
-                    "https://i.ibb.co/Cn7wtbv/criteria-Type-Obj1.png",
-                    "https://i.ibb.co/hYnf7ym/criteria-Type-Obj2.png",
-                    "https://i.ibb.co/xqGDcj3/criteria-Type-Obj3.png",
-                    "https://i.ibb.co/372Wrry/criteria-Type-Obj4.png",
-                    "https://i.ibb.co/DDhj8qs/criteria-Type-Obj5.png"
+                    "https://i.ibb.co/89zB3bx/criteria-Type-Obj1.jpg",
+                    "https://i.ibb.co/jMMLpJ6/criteria-Type-Obj2.jpg",
+                    "https://i.ibb.co/hsqYjH6/criteria-Type-Obj3.jpg",
+                    "https://i.ibb.co/K0vQvWh/criteria-Type-Obj4.jpg",
+                    "https://i.ibb.co/Wv5tykS/criteria-Type-Obj5.jpg"
+                ]
+            },
+            {
+                "id": "dragonite_mkii",
+                "h3": "Dragonite MkII",
+                "descript": "Complete reconstruction of the original Dragonite, brought to modern racing standards.",
+                "modcount": 160,
+                "media": [
+                    "https://i.ibb.co/ygD2n6T/dragonite-Mkii1.png",
+                    "https://i.ibb.co/Ks47c9q/dragonite-Mkii2.png",
+                    "https://i.ibb.co/gFyG339/dragonite-Mkii3.png",
+                    "https://i.ibb.co/sggM4Ff/dragonite-Mkii4.png",
+                    "https://i.ibb.co/k4CS7Jf/dragonite-Mkii5.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/9yHktwr/dragonite-Mkii1.jpg",
+                    "https://i.ibb.co/NjHQZ7p/dragonite-Mkii2.jpg",
+                    "https://i.ibb.co/c3dZByZ/dragonite-Mkii3.jpg",
+                    "https://i.ibb.co/rs6QGRQ/dragonite-Mkii4.jpg",
+                    "https://i.ibb.co/9GQgg9V/dragonite-Mkii5.jpg"
                 ]
             }
         ]
@@ -901,6 +921,23 @@ const json = [
                 "media": [
                     "https://i.ibb.co/NYstKpn/neo-Blockhead.png"
                 ]
+            }
+        ]
+    },
+    {
+        "id": "destroyer___",
+        "intro": {
+            "img": {
+                "src": "../media/pfp/destroyer___.webp",
+                "alt": "Destroyer___'s profile picture"
+            },
+            "h1": "Destroyer___",
+            "h4": "",
+            "p": "This artist is very shy and has no description."
+        },
+        "gallery": [
+            {
+                "h3": "This artist has no entries, or are yet to be registered."
             }
         ]
     },
