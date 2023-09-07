@@ -691,6 +691,13 @@ const json = [
                     "https://i.ibb.co/7yLgdpd/green-Saiken3.png",
                     "https://i.ibb.co/9qTryn0/green-Saiken4.png",
                     "https://i.ibb.co/ngvSCsL/green-Saiken5.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/PQyQzr6/green-Saiken1.jpg",
+                    "https://i.ibb.co/T4NLxJ2/green-Saiken2.jpg",
+                    "https://i.ibb.co/9hHWrtH/green-Saiken3.jpg",
+                    "https://i.ibb.co/z61VS7D/green-Saiken4.jpg",
+                    "https://i.ibb.co/R2yR8Rg/green-Saiken5.jpg"
                 ]
             },
             {
@@ -703,6 +710,13 @@ const json = [
                     "https://i.ibb.co/yd0KB3v/dragon-Verdict3.png",
                     "https://i.ibb.co/PzzkxBC/dragon-Verdict4.png",
                     "https://i.ibb.co/25FPHY2/dragon-Verdict5.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/wYPfxd3/dragon-Verdict1.jpg",
+                    "https://i.ibb.co/NKJd1H3/dragon-Verdict2.jpg",
+                    "https://i.ibb.co/gS9Hd1s/dragon-Verdict3.jpg",
+                    "https://i.ibb.co/RbDn0nY/dragon-Verdict4.jpg",
+                    "https://i.ibb.co/w0wpSkS/dragon-Verdict5.jpg"
                 ]
             },
             {
@@ -718,6 +732,15 @@ const json = [
                     "https://i.ibb.co/Y7KKtW8/genocidal-Verdict5.png",
                     "https://i.ibb.co/mHj3WPn/genocidal-Verdict6.png",
                     "https://i.ibb.co/HxMYf9d/genocidal-Verdict7.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/GWwVKyJ/genocidal-Verdict1.jpg",
+                    "https://i.ibb.co/tqjntRM/genocidal-Verdict2.jpg",
+                    "https://i.ibb.co/p43vkM8/genocidal-Verdict3.jpg",
+                    "https://i.ibb.co/MPYqPb8/genocidal-Verdict4.jpg",
+                    "https://i.ibb.co/khS9vbV/genocidal-Verdict5.jpg",
+                    "https://i.ibb.co/gMR37sT/genocidal-Verdict6.jpg",
+                    "https://i.ibb.co/2MRrXR1/genocidal-Verdict7.jpg"
                 ]
             },
             {
@@ -731,6 +754,14 @@ const json = [
                     "https://i.ibb.co/dKJJ0gQ/OSBlist4.png",
                     "https://i.ibb.co/yph7jRy/OSBlist5.png",
                     "https://i.ibb.co/5KyLgjH/OSBlist6.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/vVMhF4j/OSBlist1.jpg",
+                    "https://i.ibb.co/L0NVsHT/OSBlist2.jpg",
+                    "https://i.ibb.co/5xhQDZ8/OSBlist3.jpg",
+                    "https://i.ibb.co/DRXvLNY/OSBlist4.jpg",
+                    "https://i.ibb.co/G0wycKt/OSBlist5.jpg",
+                    "https://i.ibb.co/nrNBjtP/OSBlist6.jpg"
                 ]
             }
         ]
