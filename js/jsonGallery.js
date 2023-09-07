@@ -775,6 +775,7 @@ const json = [
             {
                 "id": "phantom_dragoon",
                 "h3": "Phant0m_Drag00n",
+                "descript": "Origin of Design: Old dragoons from fantasy games and the dragons they fought or befriended.\nDecommissioned Weapon: The Voidless Pulsar [Axe].\nUnit Completion Date: 3/20/XXXX.",
                 "media": [
                     "https://i.ibb.co/qY9GRWn/phantom-Dragoon1.png",
                     "https://i.ibb.co/W2c4Rkx/phantom-Dragoon2.png",
@@ -787,6 +788,7 @@ const json = [
             {
                 "id": "spark_izanagi",
                 "h3": "Sp@rk_Iz@n@gi",
+                "descript": "Origin of Design: The ancient Japanese god of creation known as Izanagi.\nDecommissioned Weapon(s): Lightning [Cannon] and Thunger Regalia [Spear].\nUnit Completion Date: 4/04/XXXX.",
                 "media": [
                     "https://i.ibb.co/9ntDjc4/spark-Izanagi1.png",
                     "https://i.ibb.co/Qr3f6ZB/spark-Izanagi2.png",
@@ -800,6 +802,7 @@ const json = [
             {
                 "id": "storm_breaker_01",
                 "h3": "Storm-Breaker_/01/",
+                "descript": "Origin of Design: It's a mix between a fighter jet, a fabled knight, and as much anime mecha stuff as I could find.\nDecommissioned Weapon(s): Sword of the Storms [Sword] and Crystal Buckler [Shield].\nUnit Completion Date: 4/05/XXXX.",
                 "media": [
                     "https://i.ibb.co/nDkj3R7/storm-Breaker01-1.png",
                     "https://i.ibb.co/qNMt7bt/storm-Breaker01-2.png",
@@ -815,6 +818,7 @@ const json = [
             {
                 "id": "sound_wave",
                 "h3": "S0und-W@v3.mp4",
+                "descript": "Origin of Design: This mech is the equivalent of someone shoving a dubstep gun into a stage speaker and then turning the volume to 11. It's great at parties.\nDecommissioned Weapon(s): It's name is literally [DUBSTEP Gun].\nUnit Completion Date: 7/23/XXXX.",
                 "media": [
                     "https://i.ibb.co/pQnLKPR/sound-Wave1.png",
                     "https://i.ibb.co/sjrkJ59/sound-Wave2.png",
@@ -828,6 +832,7 @@ const json = [
             {
                 "id": "hell_bound",
                 "h3": "H3LL_Bound-Mk.1",
+                "descript": "Origin of Design: Originally, this was going to be a very demonic looking mech as the name suggests, but after some legal actions were taken and an explosion that nearly decommissioned this mech for good, it was redesigned to look more like an artillery tank for... \"safety reasons\".\nDecommissioned Weapon(s): Hell Razor.\nUnit Completion Date: 7/23/XXXX.",
                 "media": [
                     "https://i.ibb.co/f25sGN9/hell-Bound1.png",
                     "https://i.ibb.co/xj9FKLK/hell-Bound2.png",
@@ -840,6 +845,7 @@ const json = [
             {
                 "id": "paladin_frost",
                 "h3": "Paladin of Frost",
+                "descript": "Origin of Design: While it may look very intimidating on the surface, this massive bear mech was inspired by big, fuzzy polar bears and the holy paladins of old who protect the weak for heretics and false prophets.\nDecommissioned Weapon(s): Bjorn the Mighty (sword) and the Artic Paw.\nUnit Completion Date: 7/23/XXXX.",
                 "media": [
                     "https://i.ibb.co/ggjpzTq/paladin-Of-Frost1.png",
                     "https://i.ibb.co/LrDHh2Z/paladin-Of-Frost2.png",
@@ -849,6 +855,19 @@ const json = [
                     "https://i.ibb.co/4StH46X/paladin-Of-Frost6.png",
                     "https://i.ibb.co/hCQp7mn/paladin-Of-Frost7.png",
                     "https://i.ibb.co/CQC5RXQ/paladin-Of-Frost8.png"
+                ]
+            },
+            {
+                "id": "dune_rider",
+                "h3": "Dune_Rider",
+                "descript": "Origin of Design: While traveling the globe in search of my missing mech, I eventually stumbled upon this decommissioned mining unit that had been buried under a mountain of sand in the middle of a forgotten desert somewhere near the [REDACTED] sea. Feeling pity for the poor thing, I rebuilt it using some spare parts I found lying beside it in the hopes of bringing it back home with me later, to my surprise, it was up and running in no time at all.\nDecommissioned Weapon(s): Earthbreaker [Drill] and Blast Mining [Multipurpose mining laser].\nUnit Completion Date: 8/21/XXXX.",
+                "media": [
+                    "https://i.ibb.co/7gGKPX1/dune-Rider1.jpg",
+                    "https://i.ibb.co/wy71BSX/dune-Rider2.jpg",
+                    "https://i.ibb.co/BGsmKWq/dune-Rider3.jpg",
+                    "https://i.ibb.co/wLZbWtr/dune-Rider4.jpg",
+                    "https://i.ibb.co/7v1PxLw/dune-Rider5.jpg",
+                    "https://i.ibb.co/Gt3kqSK/dune-Rider6.jpg"
                 ]
             }
         ]
