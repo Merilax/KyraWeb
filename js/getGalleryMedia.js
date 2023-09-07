@@ -66,12 +66,10 @@ json.forEach(artist => {
                 id: mech.id,
                 loading: "lazy"
             });
-
             try {
-                // Thumbnail
-                const mechthumb = mech.thumb[i - 1];
+                // Use thumbnail
                 mainimg.attr({
-                    src: mechthumb
+                    src: mech.thumb[0]
                 });
             } catch (error) {
                 // If no thumbnail use main img
