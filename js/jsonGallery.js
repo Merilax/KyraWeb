@@ -667,6 +667,78 @@ const json = [
                     "https://i.ibb.co/rs6QGRQ/dragonite-Mkii4.jpg",
                     "https://i.ibb.co/9GQgg9V/dragonite-Mkii5.jpg"
                 ]
+            },
+            {
+                "id": "carnivore_type_b",
+                "h3": "Carnivore Type B",
+                "descript": "Colossal war machine, capable of ingesting other contraptions as part of the Carnivore mech production line.\n\nIt's six arms allow for greater movement above surface, and occasional manipulation of materials. Rarely used offensively, always preferring a frontal charge.\nIngested metal can and will be used for self repair, and as ammunition for the oral shotgun.\n\nCan temporarily burrow off-combat, each body segment is capable of subterranean propulsion. Will not fully burrow when equipped with weaponry, and if so, burrowing is unadvised as it provides low defence and generally slower traverse speeds.\n\nEquipment:\n· Two heavy \"Reign\" twin artillery cannons.\n· \"Vyr\" heavy frag shotgun (oral cavity)",
+                "modcount": 2350,
+                "media": [
+                    "https://i.ibb.co/GFN3KBS/carnivore-Type-B1.png",
+                    "https://i.ibb.co/9H8Lh9f/carnivore-Type-B2.png",
+                    "https://i.ibb.co/FwqJPR0/carnivore-Type-B3.png",
+                    "https://i.ibb.co/YhV6fgS/carnivore-Type-B4.png",
+                    "https://i.ibb.co/4gqxJv4/carnivore-Type-B5.png",
+                    "https://i.ibb.co/Fg06G68/carnivore-Type-B6.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/jgMfVw4/carnivore-Type-B1.png",
+                    "https://i.ibb.co/qdXwNqD/carnivore-Type-B2.png",
+                    "https://i.ibb.co/djZfqxB/carnivore-Type-B3.png",
+                    "https://i.ibb.co/XXm3mJt/carnivore-Type-B4.png",
+                    "https://i.ibb.co/0hTkFxm/carnivore-Type-B5.png",
+                    "https://i.ibb.co/LtQPZdM/carnivore-Type-B6.png"
+                ]
+            },
+            {
+                "id": "protsvetaniye_dreadnought",
+                "h3": "Protsvetaniye Dreadnought",
+                "descript": "Stylised blueprints for a colossal space station with an expected permanent housing capacity of two thousand people, with an additional temporary housing on mission of a thousand personnel. No additional information was disclosed.\nCurrently under construction by Monolith Nauticals.",
+                "modcount": 8760,
+                "media": [
+                    "https://i.ibb.co/d7vz67d/protsvetaniye-dreadnought1.png",
+                    "https://i.ibb.co/S5xSK2c/protsvetaniye-dreadnought2.png",
+                    "https://i.ibb.co/60bxGS7/protsvetaniye-dreadnought3.png",
+                    "https://i.ibb.co/C6vsmJF/protsvetaniye-dreadnought4.png",
+                    "https://i.ibb.co/N2gr8zr/protsvetaniye-dreadnought5.png",
+                    "https://i.ibb.co/KsT6XjD/protsvetaniye-dreadnought6.png",
+                    "https://i.ibb.co/PsyRcHF/protsvetaniye-dreadnought7.png",
+                    "https://i.ibb.co/dk0hndb/protsvetaniye-dreadnought8.png",
+                    "https://i.ibb.co/xq8sKGZ/protsvetaniye-dreadnought9.png",
+                    "https://i.ibb.co/jJdDd7V/protsvetaniye-dreadnought10.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/FBSyBw4/protsvetaniye-dreadnought1.png",
+                    "https://i.ibb.co/cJpnzcV/protsvetaniye-dreadnought2.png",
+                    "https://i.ibb.co/bP7Vnzq/protsvetaniye-dreadnought3.png",
+                    "https://i.ibb.co/TgZvS0R/protsvetaniye-dreadnought4.png",
+                    "https://i.ibb.co/WBN08Tm/protsvetaniye-dreadnought5.png",
+                    "https://i.ibb.co/4SNYTNG/protsvetaniye-dreadnought6.png",
+                    "https://i.ibb.co/QkKM03P/protsvetaniye-dreadnought7.png",
+                    "https://i.ibb.co/hYbm7cW/protsvetaniye-dreadnought8.png",
+                    "https://i.ibb.co/2tFDcZ1/protsvetaniye-dreadnought9.png",
+                    "https://i.ibb.co/mJF88B1/protsvetaniye-dreadnought10.png"
+                ]
+            },
+            {
+                "id": "peel_p50",
+                "h3": "Peel P50",
+                "descript": "Whoever decided cars should have three wheels is an idiot.\nSo, we decided to match his level and put three legs on a mech.",
+                "modcount": 132,
+                "media": [
+                    "https://i.ibb.co/HX01Fhp/peel-P501.png",
+                    "https://i.ibb.co/kXQNRGp/peel-P502.png",
+                    "https://i.ibb.co/sWKQRTc/peel-P503.png",
+                    "https://i.ibb.co/HpbVTdf/peel-P504.png",
+                    "https://i.ibb.co/0VLGp9M/peel-P505.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/RgLvVry/peel-P501.png",
+                    "https://i.ibb.co/nQgyQQk/peel-P502.png",
+                    "https://i.ibb.co/m42BVZZ/peel-P503.png",
+                    "https://i.ibb.co/wsgSzt3/peel-P504.png",
+                    "https://i.ibb.co/BgrHcJ5/peel-P505.png"
+                ]
             }
         ]
     },
@@ -971,6 +1043,33 @@ const json = [
                 "media": [
                     "https://i.ibb.co/NYstKpn/neo-Blockhead.png"
                 ]
+            },
+            {
+                "id": "opium_bird",
+                "h3": "Opium Bird",
+                "media": [
+                    "https://i.ibb.co/bPTPJkH/opium-Bird1.png",
+                    "https://i.ibb.co/fkFDpJc/opium-Bird2.png",
+                    "https://i.ibb.co/Gd4vQG8/opium-Bird3.png",
+                    "https://i.ibb.co/bgTDGvx/opium-Bird4.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "destroyer___",
+        "intro": {
+            "img": {
+                "src": "../media/pfp/destroyer___.webp",
+                "alt": "Destroyer___'s profile picture"
+            },
+            "h1": "Destroyer___",
+            "h4": "",
+            "p": "This artist is very shy and has no description."
+        },
+        "gallery": [
+            {
+                "h3": "This artist has no entries, or are yet to be registered."
             }
         ]
     },
