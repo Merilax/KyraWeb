@@ -972,6 +972,42 @@ const json = [
                     "https://i.ibb.co/7v1PxLw/dune-Rider5.jpg",
                     "https://i.ibb.co/Gt3kqSK/dune-Rider6.jpg"
                 ]
+            },
+            {
+                "id": "nexus_core_mk2",
+                "h3": "Nexus Core Mk2",
+                "media": [
+                    "https://i.ibb.co/JKCWyrk/nexus-Core-Mk21.jpg",
+                    "https://i.ibb.co/S0BZqhT/nexus-Core-Mk22.jpg",
+                    "https://i.ibb.co/ZYd70b7/nexus-Core-Mk23.jpg",
+                    "https://i.ibb.co/3m9SfCy/nexus-Core-Mk24.jpg",
+                    "https://i.ibb.co/KwSXxqF/nexus-Core-Mk25.jpg",
+                    "https://i.ibb.co/KWj8J6N/nexus-Core-Mk26.jpg"
+                ]
+            },
+            {
+                "id": "ash3n_s0ul",
+                "h3": "Ash3n_S0ul",
+                "descript": "Origin of Design: During my travels, I eventually found myself in the middle of a massive mech graveyard where I, in my infinite artistic wisdom, decided to repurpose this poor dilapidated unit in a similar manner to Dune Rider after watching it rise from a pile of old and broken mech parts like some sort of mechanical revenant. Funnily enough, From Software actually did create a mech this way, and seeing as how they are my inspiration for this series, it's only fair that I name this one after their mech; Darkest Soul.\nDecommissioned Weapon(s): It wields twin, cinder-spewing machine guns called the [Ashes of War].\nUnit Completion Date: 10/1/XXXX.",
+                "media": [
+                    "https://i.ibb.co/PM3p5XZ/ash3n-S0ul1.jpg",
+                    "https://i.ibb.co/WgjjtXB/ash3n-S0ul2.jpg",
+                    "https://i.ibb.co/fG5N6dz/ash3n-S0ul3.jpg",
+                    "https://i.ibb.co/xXVRXgQ/ash3n-S0ul4.jpg",
+                    "https://i.ibb.co/xC56fgC/ash3n-S0ul5.jpg"
+                ]
+            },
+            {
+                "id": "t@rnsh3d_ring.chr",
+                "h3": "T@rnsh3d_Ring.chr",
+                "descript": "Origin of Design: While flying around in my personal unit; Stormbearer, I eventually happened upon a massive golden tree surrounded by a massive toxic swamp located somewhere near [REDACTED] and [REDACTED] where this mech was inevitably found by yours truly. At first, I wasn't sure what to do with the damn thing since I already had enough mechs to last me several lifetimes over, but when I saw just how beautiful its shiny, gilded frame  kneeling before the tree like it was praying to it, I couldn't help but take it as my own. Now, I'm not sure if From Software ever finished creating that \"Elden Ring\" mech of theirs, but I'm still going to pay homage to it anyways.\nDecommissioned Weapon(s): It wields two gilded arm blades known as the [Golden-Strykers].\nUnit Completion Date: 10/2/XXXX.",
+                "media": [
+                    "https://i.ibb.co/cY03bdd/t-rnsh3d-Ring-Chr1.jpg",
+                    "https://i.ibb.co/bJ8LvLy/t-rnsh3d-Ring-Chr2.jpg",
+                    "https://i.ibb.co/C9mnM2J/t-rnsh3d-Ring-Chr3.jpg",
+                    "https://i.ibb.co/gFxSB1P/t-rnsh3d-Ring-Chr4.jpg",
+                    "https://i.ibb.co/3hW0qSp/t-rnsh3d-Ring-Chr5.jpg"
+                ]
             }
         ]
     },
@@ -1053,23 +1089,60 @@ const json = [
                     "https://i.ibb.co/Gd4vQG8/opium-Bird3.png",
                     "https://i.ibb.co/bgTDGvx/opium-Bird4.png"
                 ]
-            }
-        ]
-    },
-    {
-        "id": "destroyer___",
-        "intro": {
-            "img": {
-                "src": "../media/pfp/destroyer___.webp",
-                "alt": "Destroyer___'s profile picture"
             },
-            "h1": "Destroyer___",
-            "h4": "",
-            "p": "This artist is very shy and has no description."
-        },
-        "gallery": [
             {
-                "h3": "This artist has no entries, or are yet to be registered."
+                "id": "rgn_v",
+                "h3": "RGN-V",
+                "media": [
+                    "https://i.ibb.co/5ccz3S4/rgn-V1.png",
+                    "https://i.ibb.co/1vx38yQ/rgn-V2.png",
+                    "https://i.ibb.co/xsWLppK/rgn-V3.png",
+                    "https://i.ibb.co/rvcKFcW/rgn-V4.png",
+                    "https://i.ibb.co/548ZqCp/rgn-V5.png"
+                ]
+            },
+            {
+                "id": "neo_fulgur_i",
+                "h3": "Neo-Fulgur i",
+                "media": [
+                    "https://i.ibb.co/dfF1KBR/neo-Fulgur-I1.png",
+                    "https://i.ibb.co/HKxsR2G/neo-Fulgur-I2.png",
+                    "https://i.ibb.co/x1gkP0q/neo-Fulgur-I3.png",
+                    "https://i.ibb.co/s1vPhB0/neo-Fulgur-I4.png",
+                    "https://i.ibb.co/18YysMS/neo-Fulgur-I5.png",
+                    "https://i.ibb.co/gg800WT/neo-Fulgur-I6.png"
+                ]
+            },
+            {
+                "id": "neo_kirishima_i",
+                "h3": "Neo-Kirishima i",
+                "media": [
+                    "https://i.ibb.co/SJKFp8D/neo-Kirishima-I1.png",
+                    "https://i.ibb.co/hF5KKpL/neo-Kirishima-I2.png",
+                    "https://i.ibb.co/HqGgW5h/neo-Kirishima-I3.png",
+                    "https://i.ibb.co/KjC1Lh9/neo-Kirishima-I4.png"
+                ]
+            },
+            {
+                "id": "blockhead_ii_midnight",
+                "h3": "Blockhead ii // Midnight",
+                "media": [
+                    "https://i.ibb.co/ZWrD9V4/blockhead-Ii-Midnight1.png",
+                    "https://i.ibb.co/qr8B9vW/blockhead-Ii-Midnight2.png",
+                    "https://i.ibb.co/f1XGkvj/blockhead-Ii-Midnight3.png",
+                    "https://i.ibb.co/VVwnwbj/blockhead-Ii-Midnight4.png"
+                ]
+            },
+            {
+                "id": "kane_0",
+                "h3": "KANE-0",
+                "media": [
+                    "https://i.ibb.co/D71BM7S/kane-01.png",
+                    "https://i.ibb.co/QXfqPYX/kane-02.png",
+                    "https://i.ibb.co/QmvjQPh/kane-03.png",
+                    "https://i.ibb.co/vXhb8gL/kane-04.png",
+                    "https://i.ibb.co/DppSZrs/kane-05.png"
+                ]
             }
         ]
     },
