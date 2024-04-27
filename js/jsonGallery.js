@@ -739,6 +739,26 @@ const json = [
                     "https://i.ibb.co/wsgSzt3/peel-P504.png",
                     "https://i.ibb.co/BgrHcJ5/peel-P505.png"
                 ]
+            },
+            {
+                "id": "msec_drone",
+                "h3": "M.Sec Drone",
+                "descript": "Automated security enforcement drones, protecting Monolith priority cargo shipments from would-be pirates.\nSome ships can house a couple drones like these in embedded hangars.",
+                "modcount": 210,
+                "media": [
+                    "https://i.ibb.co/Bnb88Qb/m-Sec-Drone1.png",
+                    "https://i.ibb.co/thBKg9d/m-Sec-Drone2.png",
+                    "https://i.ibb.co/r7Jm4by/m-Sec-Drone3.png",
+                    "https://i.ibb.co/qCLCGSb/m-Sec-Drone4.png",
+                    "https://i.ibb.co/q1b4BS7/m-Sec-Drone5.png"
+                ],
+                "thumb": [
+                    "https://i.ibb.co/XtbGx34/m-Sec-Drone1.png",
+                    "https://i.ibb.co/StxhHSm/m-Sec-Drone2.png",
+                    "https://i.ibb.co/pjp0dK5/m-Sec-Drone3.png",
+                    "https://i.ibb.co/k2MzrYL/m-Sec-Drone4.png",
+                    "https://i.ibb.co/N9xSTBW/m-Sec-Drone5.png"
+                ]
             }
         ]
     },
