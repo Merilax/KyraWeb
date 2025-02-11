@@ -1,15 +1,22 @@
 /* MAIN */
 
+main {
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .mainText {
     margin: 50px auto 30px;
-    padding: 10px 10px;
-    width: 60vw;
+    width: 55vw;
 }
 
 .mainArticle {
     display: flex;
     justify-content: space-around;
-    margin: 25vh 0;
+    align-items: center;
+    /* margin: 25vh 0; */
 }
 
 .mainSection {
@@ -30,7 +37,7 @@
 }
 
 .left {
-    left: -61vw;
+    left: -62vw;
     /*translate: -1100px 0;*/
 }
 
@@ -40,7 +47,7 @@
 }
 
 .right {
-    right: -61vw;
+    right: -62vw;
 }
 
 .right:hover {
