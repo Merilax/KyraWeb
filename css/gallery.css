@@ -103,6 +103,7 @@ p {
 }
 
 .description {
+    box-sizing: border-box;
     z-index: 2;
     position: absolute;
     display: block;
@@ -135,9 +136,9 @@ h2 {
 
 .first {
     width: 500px;
-    max-height: 282px;
+    max-height: 280px;
     margin: 5px;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 .extraMedia {

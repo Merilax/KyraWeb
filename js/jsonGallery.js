@@ -3,14 +3,20 @@ const json = [
         "id": "merilax",
         "intro": {
             "img": {
-                "src": "../media/pfp/merilax.png",
+                "src": "../media/pfp/merilax.jpg",
                 "alt": "Merilax's profile picture"
             },
             "h1": "Merilax, the fifth.",
             "h4": "Merilax",
-            "p": "Arguably the most egocentric artist in the company, fitting of the owner of Kyra.\nKnown for making extraordinarily big, unnecessarily complex mechs."
+            "p": "Something of worth was here once. No more. Crimes must be punished.",
+            "pHidden": "Arguably the most egocentric artist in the company, fitting of the owner of Kyra.\nKnown for making extraordinarily big, unnecessarily complex mechs."
         },
         "gallery": [
+            {
+                "h3": "This artist has no entries, or are yet to be registered."
+            }
+        ],
+        "galleryHidden": [
             {
                 "id": "kronos",
                 "h3": "Kronos",
@@ -1237,6 +1243,23 @@ const json = [
                     "https://i.ibb.co/cX51kSg/rx-124-Tr-63.jpg",
                     "https://i.ibb.co/55WT6CR/rx-124-Tr-64.jpg"
                 ]
+            }
+        ]
+    },
+    {
+        "id": "merkur",
+        "intro": {
+            "img": {
+                "src": "../media/pfp/unknown.png",
+                "alt": "Merkur's profile picture"
+            },
+            "h1": "IVIerkur",
+            "h4": "",
+            "p": "This artist is very shy and has no description."
+        },
+        "gallery": [
+            {
+                "h3": "This artist has no entries, or are yet to be registered."
             }
         ]
     },
