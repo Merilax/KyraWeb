@@ -1,0 +1,31 @@
+body {
+	background-color: #000 !important;
+	overflow-y: hidden;
+	background-image: url("../media/temp.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: scroll;
+}
+
+main {
+	background: #000b;
+	margin: 0 auto;
+	height: 100dvh;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 2rem;
+}
+
+main p {
+	margin: 5rem 0;
+	text-shadow: #000 2px 2px;
+}
+
+.red {
+	color: #a00;
+}
+.blue {
+	color: #46b
+}
