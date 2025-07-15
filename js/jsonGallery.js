@@ -8,15 +8,15 @@ const json = [
             },
             "h1": "Merilax, the fifth.",
             "h4": "Merilax",
-            "p": "Something of worth was here once. No more. Crimes must be punished.",
-            "pHidden": "Arguably the most egocentric artist in the company, fitting of the owner of Kyra.\nKnown for making extraordinarily big, unnecessarily complex mechs."
+            "pHidden": "Something of worth was here once. No more. Crimes must be punished.",
+            "p": "Arguably the most egocentric artist in the company, fitting of the owner of Kyra.\nKnown for making extraordinarily big, unnecessarily complex mechs."
         },
-        "gallery": [
+        "galleryHidden": [
             {
                 "h3": "This artist has no entries, or are yet to be registered."
             }
         ],
-        "galleryHidden": [
+        "gallery": [
             {
                 "id": "kronos",
                 "h3": "Kronos",
